@@ -1,0 +1,28 @@
+[
+  {
+    "info": "c Rabada b Nortje",
+    "runs": "10",
+    "balls": "15",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "66.67",
+    "match_number": "7th Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 25 2020",
+    "match_status": "Capitals won by 44 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "c Curran b Gopal",
+    "runs": "21",
+    "balls": "21",
+    "fours": "3",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "4th Match (N)",
+    "venue": "Sharjah",
+    "date": "Sep 22 2020",
+    "match_status": "Royals won by 16 runs",
+    "opponent": "Rajasthan Royals"
+  }
+]

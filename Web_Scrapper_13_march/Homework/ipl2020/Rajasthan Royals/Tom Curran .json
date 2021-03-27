@@ -1,0 +1,41 @@
+[
+  {
+    "info": "not out ",
+    "runs": "10",
+    "balls": "9",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "111.11",
+    "match_number": "4th Match (N)",
+    "venue": "Sharjah",
+    "date": "Sep 22 2020",
+    "match_status": "Royals won by 16 runs",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c HH Pandya b Pollard",
+    "runs": "15",
+    "balls": "16",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "93.75",
+    "match_number": "20th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 6 2020",
+    "match_status": "Mum Indians won by 57 runs",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "not out ",
+    "runs": "4",
+    "balls": "1",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "400.00",
+    "match_number": "9th Match (N)",
+    "venue": "Sharjah",
+    "date": "Sep 27 2020",
+    "match_status": "Royals won by 4 wickets (with 3 balls remaining)",
+    "opponent": "Kings XI Punjab"
+  }
+]

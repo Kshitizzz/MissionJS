@@ -1,0 +1,80 @@
+[
+  {
+    "info": "lbw b Imran Tahir",
+    "runs": "12",
+    "balls": "19",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "63.16",
+    "match_number": "53rd Match",
+    "venue": "Abu Dhabi",
+    "date": "Nov 1 2020",
+    "match_status": "Super Kings won by 9 wickets (with 7 balls remaining)",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c Warner b Holder",
+    "runs": "20",
+    "balls": "20",
+    "fours": "2",
+    "sixes": "1",
+    "strike_rate": "100.00",
+    "match_number": "43rd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 24 2020",
+    "match_status": "Kings XI won by 12 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "c Boult b Chahar",
+    "runs": "24",
+    "balls": "21",
+    "fours": "1",
+    "sixes": "2",
+    "strike_rate": "114.29",
+    "match_number": "36th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 18 2020",
+    "match_status": "Match tied (Kings XI won the one-over eliminator)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": " b Archer",
+    "runs": "99",
+    "balls": "63",
+    "fours": "6",
+    "sixes": "8",
+    "strike_rate": "157.14",
+    "match_number": "50th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 30 2020",
+    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "c Prasidh Krishna b Ferguson",
+    "runs": "51",
+    "balls": "29",
+    "fours": "2",
+    "sixes": "5",
+    "strike_rate": "175.86",
+    "match_number": "46th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 26 2020",
+    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "run out (Padikkal/†de Villiers)",
+    "runs": "53",
+    "balls": "45",
+    "fours": "1",
+    "sixes": "5",
+    "strike_rate": "117.78",
+    "match_number": "31st Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 15 2020",
+    "match_status": "Kings XI won by 8 wickets",
+    "opponent": "Royal Challengers Bangalore"
+  }
+]

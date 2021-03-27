@@ -1,0 +1,28 @@
+[
+  {
+    "info": "c Hetmyer b AR Patel",
+    "runs": "11",
+    "balls": "13",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "84.62",
+    "match_number": "19th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 5 2020",
+    "match_status": "Capitals won by 59 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "run out (Rashid Khan)",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "Eliminator (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 6 2020",
+    "match_status": "Sunrisers won by 6 wickets (with 2 balls remaining)",
+    "opponent": "Sunrisers Hyderabad"
+  }
+]

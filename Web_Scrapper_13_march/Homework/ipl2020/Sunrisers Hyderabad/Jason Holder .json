@@ -1,0 +1,41 @@
+[
+  {
+    "info": "c Mandeep Singh b Jordan",
+    "runs": "5",
+    "balls": "8",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "62.50",
+    "match_number": "43rd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 24 2020",
+    "match_status": "Kings XI won by 12 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "not out ",
+    "runs": "26",
+    "balls": "10",
+    "fours": "1",
+    "sixes": "3",
+    "strike_rate": "260.00",
+    "match_number": "52nd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 31 2020",
+    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "not out ",
+    "runs": "24",
+    "balls": "20",
+    "fours": "3",
+    "sixes": "0",
+    "strike_rate": "120.00",
+    "match_number": "Eliminator (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 6 2020",
+    "match_status": "Sunrisers won by 6 wickets (with 2 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "info": " b Cummins",
+    "runs": "72",
+    "balls": "53",
+    "fours": "6",
+    "sixes": "2",
+    "strike_rate": "135.85",
+    "match_number": "49th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 29 2020",
+    "match_status": "Super Kings won by 6 wickets",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "not out ",
+    "runs": "65",
+    "balls": "51",
+    "fours": "4",
+    "sixes": "3",
+    "strike_rate": "127.45",
+    "match_number": "44th Match",
+    "venue": "Dubai",
+    "date": "Oct 25 2020",
+    "match_status": "Super Kings won by 8 wickets (with 8 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "lbw b Boult",
+    "runs": "0",
+    "balls": "5",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "41st Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 23 2020",
+    "match_status": "Mum Indians won by 10 wickets (with 46 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "run out (†Pant/Patel)",
+    "runs": "5",
+    "balls": "10",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "50.00",
+    "match_number": "7th Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 25 2020",
+    "match_status": "Capitals won by 44 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "st †Samson b Tewatia",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "4th Match (N)",
+    "venue": "Sharjah",
+    "date": "Sep 22 2020",
+    "match_status": "Royals won by 16 runs",
+    "opponent": "Rajasthan Royals"
+  }
+]

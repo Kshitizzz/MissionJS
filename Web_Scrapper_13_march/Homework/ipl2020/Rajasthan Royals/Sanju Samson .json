@@ -1,0 +1,80 @@
+[
+  {
+    "info": "c & b Chahal",
+    "runs": "4",
+    "balls": "3",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "133.33",
+    "match_number": "15th Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 3 2020",
+    "match_status": "RCB won by 8 wickets (with 5 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "c Hetmyer b Stoinis",
+    "runs": "5",
+    "balls": "9",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "55.56",
+    "match_number": "23rd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 9 2020",
+    "match_status": "Capitals won by 46 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "c †Bairstow b Rashid Khan",
+    "runs": "26",
+    "balls": "25",
+    "fours": "3",
+    "sixes": "0",
+    "strike_rate": "104.00",
+    "match_number": "26th Match",
+    "venue": "Dubai",
+    "date": "Oct 11 2020",
+    "match_status": "Royals won by 5 wickets (with 1 ball remaining)",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": " b Patel",
+    "runs": "25",
+    "balls": "18",
+    "fours": "0",
+    "sixes": "2",
+    "strike_rate": "138.89",
+    "match_number": "30th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 14 2020",
+    "match_status": "Capitals won by 13 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "c Sharma b Boult",
+    "runs": "0",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "20th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 6 2020",
+    "match_status": "Mum Indians won by 57 runs",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "c †Rahul b Mohammed Shami",
+    "runs": "85",
+    "balls": "42",
+    "fours": "4",
+    "sixes": "7",
+    "strike_rate": "202.38",
+    "match_number": "9th Match (N)",
+    "venue": "Sharjah",
+    "date": "Sep 27 2020",
+    "match_status": "Royals won by 4 wickets (with 3 balls remaining)",
+    "opponent": "Kings XI Punjab"
+  }
+]

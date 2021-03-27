@@ -1,0 +1,54 @@
+[
+  {
+    "info": "not out ",
+    "runs": "62",
+    "balls": "30",
+    "fours": "3",
+    "sixes": "4",
+    "strike_rate": "206.67",
+    "match_number": "53rd Match",
+    "venue": "Abu Dhabi",
+    "date": "Nov 1 2020",
+    "match_status": "Super Kings won by 9 wickets (with 7 balls remaining)",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "st †Bairstow b Rashid Khan",
+    "runs": "0",
+    "balls": "2",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "43rd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 24 2020",
+    "match_status": "Kings XI won by 12 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "not out ",
+    "runs": "23",
+    "balls": "16",
+    "fours": "1",
+    "sixes": "1",
+    "strike_rate": "143.75",
+    "match_number": "36th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 18 2020",
+    "match_status": "Match tied (Kings XI won the one-over eliminator)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "not out ",
+    "runs": "1",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "50th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 30 2020",
+    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
+    "opponent": "Rajasthan Royals"
+  }
+]

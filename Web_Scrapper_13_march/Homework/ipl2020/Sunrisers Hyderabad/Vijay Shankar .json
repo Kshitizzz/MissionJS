@@ -1,0 +1,54 @@
+[
+  {
+    "info": "c †Rahul b Arshdeep Singh",
+    "runs": "26",
+    "balls": "27",
+    "fours": "4",
+    "sixes": "0",
+    "strike_rate": "96.30",
+    "match_number": "43rd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 24 2020",
+    "match_status": "Kings XI won by 12 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": " b Chahal",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "3rd Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 21 2020",
+    "match_status": "RCB won by 10 runs",
+    "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "c Jadeja b Bravo",
+    "runs": "12",
+    "balls": "7",
+    "fours": "0",
+    "sixes": "1",
+    "strike_rate": "171.43",
+    "match_number": "29th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 13 2020",
+    "match_status": "Super Kings won by 20 runs",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "not out ",
+    "runs": "52",
+    "balls": "51",
+    "fours": "6",
+    "sixes": "0",
+    "strike_rate": "101.96",
+    "match_number": "40th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 22 2020",
+    "match_status": "Sunrisers won by 8 wickets (with 11 balls remaining)",
+    "opponent": "Rajasthan Royals"
+  }
+]

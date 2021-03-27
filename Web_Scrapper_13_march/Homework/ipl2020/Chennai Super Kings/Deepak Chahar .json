@@ -1,0 +1,28 @@
+[
+  {
+    "info": "not out ",
+    "runs": "2",
+    "balls": "2",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "29th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 13 2020",
+    "match_status": "Super Kings won by 20 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "not out ",
+    "runs": "5",
+    "balls": "5",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "25th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 10 2020",
+    "match_status": "RCB won by 37 runs",
+    "opponent": "Royal Challengers Bangalore"
+  }
+]

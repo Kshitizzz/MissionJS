@@ -1,0 +1,80 @@
+[
+  {
+    "info": "c Hetmyer b Nortje",
+    "runs": "44",
+    "balls": "18",
+    "fours": "1",
+    "sixes": "5",
+    "strike_rate": "244.44",
+    "match_number": "16th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 3 2020",
+    "match_status": "Capitals won by 18 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "c Maxwell b Ravi Bishnoi",
+    "runs": "24",
+    "balls": "23",
+    "fours": "2",
+    "sixes": "1",
+    "strike_rate": "104.35",
+    "match_number": "24th Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 10 2020",
+    "match_status": "KKR won by 2 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "not out ",
+    "runs": "34",
+    "balls": "23",
+    "fours": "1",
+    "sixes": "2",
+    "strike_rate": "147.83",
+    "match_number": "12th Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 30 2020",
+    "match_status": "KKR won by 37 runs",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "not out ",
+    "runs": "42",
+    "balls": "29",
+    "fours": "3",
+    "sixes": "2",
+    "strike_rate": "144.83",
+    "match_number": "8th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 26 2020",
+    "match_status": "KKR won by 7 wickets (with 12 balls remaining)",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "c †Dhoni b Curran",
+    "runs": "7",
+    "balls": "10",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "70.00",
+    "match_number": "21st Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 7 2020",
+    "match_status": "KKR won by 10 runs",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c †de Kock b Bumrah",
+    "runs": "16",
+    "balls": "20",
+    "fours": "1",
+    "sixes": "1",
+    "strike_rate": "80.00",
+    "match_number": "5th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 23 2020",
+    "match_status": "Mum Indians won by 49 runs",
+    "opponent": "Mumbai Indians"
+  }
+]

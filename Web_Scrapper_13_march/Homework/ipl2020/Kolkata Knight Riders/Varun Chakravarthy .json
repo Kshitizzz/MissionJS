@@ -1,0 +1,28 @@
+[
+  {
+    "info": " b Jordan",
+    "runs": "2",
+    "balls": "4",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "50.00",
+    "match_number": "46th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 26 2020",
+    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "run out (Jadeja/†Dhoni)",
+    "runs": "1",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "21st Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 7 2020",
+    "match_status": "KKR won by 10 runs",
+    "opponent": "Chennai Super Kings"
+  }
+]

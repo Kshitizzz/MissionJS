@@ -1,0 +1,28 @@
+[
+  {
+    "info": "not out ",
+    "runs": "14",
+    "balls": "9",
+    "fours": "2",
+    "sixes": "0",
+    "strike_rate": "155.56",
+    "match_number": "18th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 4 2020",
+    "match_status": "Super Kings won by 10 wickets (with 14 balls remaining)",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c Shaw b Patel",
+    "runs": "12",
+    "balls": "12",
+    "fours": "2",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "2nd Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 20 2020",
+    "match_status": "Match tied (Capitals won the one-over eliminator)",
+    "opponent": "Delhi Capitals"
+  }
+]

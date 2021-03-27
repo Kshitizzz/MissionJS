@@ -1,0 +1,67 @@
+[
+  {
+    "info": "not out ",
+    "runs": "3",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "16th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 3 2020",
+    "match_status": "Capitals won by 18 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "not out ",
+    "runs": "8",
+    "balls": "5",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "160.00",
+    "match_number": "12th Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 30 2020",
+    "match_status": "KKR won by 37 runs",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": " b Ashwin",
+    "runs": "6",
+    "balls": "13",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "46.15",
+    "match_number": "46th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 26 2020",
+    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "c du Plessis b Bravo",
+    "runs": "0",
+    "balls": "2",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "21st Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 7 2020",
+    "match_status": "KKR won by 10 runs",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "not out ",
+    "runs": "1",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "54th Match (N)",
+    "venue": "Dubai",
+    "date": "Nov 1 2020",
+    "match_status": "KKR won by 60 runs",
+    "opponent": "Rajasthan Royals"
+  }
+]

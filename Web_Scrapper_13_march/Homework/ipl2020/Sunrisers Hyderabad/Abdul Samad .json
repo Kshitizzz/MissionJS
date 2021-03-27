@@ -1,0 +1,93 @@
+[
+  {
+    "info": "c Sharma b Bumrah",
+    "runs": "20",
+    "balls": "9",
+    "fours": "1",
+    "sixes": "2",
+    "strike_rate": "222.22",
+    "match_number": "17th Match",
+    "venue": "Sharjah",
+    "date": "Oct 4 2020",
+    "match_status": "Mum Indians won by 34 runs",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "c sub (KMA Paul) b Rabada",
+    "runs": "33",
+    "balls": "16",
+    "fours": "2",
+    "sixes": "2",
+    "strike_rate": "206.25",
+    "match_number": "Qualifier 2 (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 8 2020",
+    "match_status": "Capitals won by 17 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "not out ",
+    "runs": "12",
+    "balls": "7",
+    "fours": "1",
+    "sixes": "1",
+    "strike_rate": "171.43",
+    "match_number": "11th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 29 2020",
+    "match_status": "Sunrisers won by 15 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "c Shubman Gill b Shivam Mavi",
+    "runs": "23",
+    "balls": "15",
+    "fours": "2",
+    "sixes": "1",
+    "strike_rate": "153.33",
+    "match_number": "35th Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 18 2020",
+    "match_status": "Match tied (KKR won the one-over eliminator)",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "c Jordan b Mohammed Shami",
+    "runs": "7",
+    "balls": "5",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "140.00",
+    "match_number": "43rd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 24 2020",
+    "match_status": "Kings XI won by 12 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "not out ",
+    "runs": "0",
+    "balls": "0",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "52nd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 31 2020",
+    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "c Arshdeep Singh b Ravi Bishnoi",
+    "runs": "8",
+    "balls": "7",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "114.29",
+    "match_number": "22nd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 8 2020",
+    "match_status": "Sunrisers won by 69 runs",
+    "opponent": "Kings XI Punjab"
+  }
+]

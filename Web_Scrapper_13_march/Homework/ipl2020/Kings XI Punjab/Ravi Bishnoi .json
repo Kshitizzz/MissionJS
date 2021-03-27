@@ -1,0 +1,28 @@
+[
+  {
+    "info": "c Yadav b Boult",
+    "runs": "1",
+    "balls": "5",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "20.00",
+    "match_number": "13th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 1 2020",
+    "match_status": "Mum Indians won by 48 runs",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "not out ",
+    "runs": "6",
+    "balls": "7",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "85.71",
+    "match_number": "22nd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 8 2020",
+    "match_status": "Sunrisers won by 69 runs",
+    "opponent": "Sunrisers Hyderabad"
+  }
+]

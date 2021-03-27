@@ -1,0 +1,28 @@
+[
+  {
+    "info": "c AR Patel b Ashwin",
+    "runs": "1",
+    "balls": "2",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "50.00",
+    "match_number": "23rd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 9 2020",
+    "match_status": "Capitals won by 46 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "c sub (AS Roy) b Chahar",
+    "runs": "11",
+    "balls": "13",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "84.62",
+    "match_number": "20th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 6 2020",
+    "match_status": "Mum Indians won by 57 runs",
+    "opponent": "Mumbai Indians"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "info": "not out ",
+    "runs": "58",
+    "balls": "45",
+    "fours": "7",
+    "sixes": "1",
+    "strike_rate": "128.89",
+    "match_number": "56th Match (N)",
+    "venue": "Sharjah",
+    "date": "Nov 3 2020",
+    "match_status": "Sunrisers won by 10 wickets (with 17 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "run out (Cummins/†Karthik)",
+    "runs": "30",
+    "balls": "31",
+    "fours": "1",
+    "sixes": "1",
+    "strike_rate": "96.77",
+    "match_number": "8th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 26 2020",
+    "match_status": "KKR won by 7 wickets (with 12 balls remaining)",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "st †de Villiers b Chahal",
+    "runs": "39",
+    "balls": "32",
+    "fours": "4",
+    "sixes": "1",
+    "strike_rate": "121.88",
+    "match_number": "52nd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 31 2020",
+    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  }
+]

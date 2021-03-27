@@ -1,0 +1,28 @@
+[
+  {
+    "info": "not out ",
+    "runs": "0",
+    "balls": "0",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "20th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 6 2020",
+    "match_status": "Mum Indians won by 57 runs",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "c & b Shivam Mavi",
+    "runs": "2",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "66.67",
+    "match_number": "54th Match (N)",
+    "venue": "Dubai",
+    "date": "Nov 1 2020",
+    "match_status": "KKR won by 60 runs",
+    "opponent": "Kolkata Knight Riders"
+  }
+]

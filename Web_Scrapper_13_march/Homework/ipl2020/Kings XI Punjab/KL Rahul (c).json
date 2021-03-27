@@ -1,0 +1,28 @@
+[
+  {
+    "info": "c †Dhoni b Thakur",
+    "runs": "63",
+    "balls": "52",
+    "fours": "7",
+    "sixes": "1",
+    "strike_rate": "121.15",
+    "match_number": "18th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 4 2020",
+    "match_status": "Super Kings won by 10 wickets (with 14 balls remaining)",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c Williamson b Abhishek Sharma",
+    "runs": "11",
+    "balls": "16",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "68.75",
+    "match_number": "22nd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 8 2020",
+    "match_status": "Sunrisers won by 69 runs",
+    "opponent": "Sunrisers Hyderabad"
+  }
+]

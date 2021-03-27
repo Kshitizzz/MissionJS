@@ -1,0 +1,28 @@
+[
+  {
+    "info": "c Gaikwad b Ngidi",
+    "runs": "2",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "66.67",
+    "match_number": "53rd Match",
+    "venue": "Abu Dhabi",
+    "date": "Nov 1 2020",
+    "match_status": "Super Kings won by 9 wickets (with 7 balls remaining)",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c Yadav b Bumrah",
+    "runs": "7",
+    "balls": "7",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "13th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 1 2020",
+    "match_status": "Mum Indians won by 48 runs",
+    "opponent": "Mumbai Indians"
+  }
+]

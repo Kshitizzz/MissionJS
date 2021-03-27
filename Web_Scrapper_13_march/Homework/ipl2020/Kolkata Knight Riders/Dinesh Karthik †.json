@@ -1,0 +1,80 @@
+[
+  {
+    "info": "not out ",
+    "runs": "21",
+    "balls": "10",
+    "fours": "3",
+    "sixes": "0",
+    "strike_rate": "210.00",
+    "match_number": "49th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 29 2020",
+    "match_status": "Super Kings won by 6 wickets",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "not out ",
+    "runs": "29",
+    "balls": "14",
+    "fours": "2",
+    "sixes": "2",
+    "strike_rate": "207.14",
+    "match_number": "35th Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 18 2020",
+    "match_status": "Match tied (KKR won the one-over eliminator)",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "lbw b Chahal",
+    "runs": "4",
+    "balls": "14",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "28.57",
+    "match_number": "39th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 21 2020",
+    "match_status": "RCB won by 8 wickets (with 39 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "c †Rahul b Mohammed Shami",
+    "runs": "0",
+    "balls": "2",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "46th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 26 2020",
+    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "c Smith b Tewatia",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "54th Match (N)",
+    "venue": "Dubai",
+    "date": "Nov 1 2020",
+    "match_status": "KKR won by 60 runs",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "c †Pant b Rabada",
+    "runs": "3",
+    "balls": "6",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "50.00",
+    "match_number": "42nd Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Delhi Capitals"
+  }
+]

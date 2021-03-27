@@ -1,0 +1,93 @@
+[
+  {
+    "info": "lbw b KH Pandya",
+    "runs": "15",
+    "balls": "15",
+    "fours": "3",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "27th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 11 2020",
+    "match_status": "Mum Indians won by 5 wickets (with 2 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "lbw b Rashid Khan",
+    "runs": "26",
+    "balls": "19",
+    "fours": "3",
+    "sixes": "1",
+    "strike_rate": "136.84",
+    "match_number": "47th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 27 2020",
+    "match_status": "Sunrisers won by 88 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "lbw b Boult",
+    "runs": "0",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "Qualifier 1 (N)",
+    "venue": "Dubai",
+    "date": "Nov 5 2020",
+    "match_status": "Mum Indians won by 57 runs",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "c Uthappa b Archer",
+    "runs": "2",
+    "balls": "9",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "22.22",
+    "match_number": "30th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 14 2020",
+    "match_status": "Capitals won by 13 runs",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "c Curran b Chahar",
+    "runs": "8",
+    "balls": "10",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "80.00",
+    "match_number": "34th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 17 2020",
+    "match_status": "Capitals won by 5 wickets (with 1 ball remaining)",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c Dube b Washington Sundar",
+    "runs": "60",
+    "balls": "46",
+    "fours": "5",
+    "sixes": "1",
+    "strike_rate": "130.43",
+    "match_number": "55th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 2 2020",
+    "match_status": "Capitals won by 6 wickets (with 6 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "lbw b Cummins",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "42nd Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Kolkata Knight Riders"
+  }
+]

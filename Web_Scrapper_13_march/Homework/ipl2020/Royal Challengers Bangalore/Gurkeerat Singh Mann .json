@@ -1,0 +1,54 @@
+[
+  {
+    "info": "not out ",
+    "runs": "21",
+    "balls": "26",
+    "fours": "4",
+    "sixes": "0",
+    "strike_rate": "80.77",
+    "match_number": "39th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 21 2020",
+    "match_status": "RCB won by 8 wickets (with 39 balls remaining)",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "not out ",
+    "runs": "15",
+    "balls": "24",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "62.50",
+    "match_number": "52nd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 31 2020",
+    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "not out ",
+    "runs": "14",
+    "balls": "11",
+    "fours": "2",
+    "sixes": "0",
+    "strike_rate": "127.27",
+    "match_number": "48th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 28 2020",
+    "match_status": "Mum Indians won by 5 wickets (with 5 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "not out ",
+    "runs": "19",
+    "balls": "17",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "111.76",
+    "match_number": "33rd Match",
+    "venue": "Dubai",
+    "date": "Oct 17 2020",
+    "match_status": "RCB won by 7 wickets (with 2 balls remaining)",
+    "opponent": "Rajasthan Royals"
+  }
+]

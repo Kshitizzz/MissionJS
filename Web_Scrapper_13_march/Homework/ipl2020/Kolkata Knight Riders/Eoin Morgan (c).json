@@ -1,0 +1,80 @@
+[
+  {
+    "info": "c Gaikwad b Ngidi",
+    "runs": "15",
+    "balls": "12",
+    "fours": "2",
+    "sixes": "0",
+    "strike_rate": "125.00",
+    "match_number": "49th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 29 2020",
+    "match_status": "Super Kings won by 6 wickets",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c Pandey b Basil Thampi",
+    "runs": "34",
+    "balls": "23",
+    "fours": "3",
+    "sixes": "1",
+    "strike_rate": "147.83",
+    "match_number": "35th Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 18 2020",
+    "match_status": "Match tied (KKR won the one-over eliminator)",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "c Gurkeerat Singh b Washington Sundar",
+    "runs": "30",
+    "balls": "34",
+    "fours": "3",
+    "sixes": "1",
+    "strike_rate": "88.24",
+    "match_number": "39th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 21 2020",
+    "match_status": "RCB won by 8 wickets (with 39 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "c Ashwin b Ravi Bishnoi",
+    "runs": "40",
+    "balls": "25",
+    "fours": "5",
+    "sixes": "2",
+    "strike_rate": "160.00",
+    "match_number": "46th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 26 2020",
+    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "not out ",
+    "runs": "68",
+    "balls": "35",
+    "fours": "5",
+    "sixes": "6",
+    "strike_rate": "194.29",
+    "match_number": "54th Match (N)",
+    "venue": "Dubai",
+    "date": "Nov 1 2020",
+    "match_status": "KKR won by 60 runs",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "c Rabada b Stoinis",
+    "runs": "17",
+    "balls": "9",
+    "fours": "2",
+    "sixes": "1",
+    "strike_rate": "188.89",
+    "match_number": "42nd Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Delhi Capitals"
+  }
+]

@@ -13,17 +13,17 @@
     "opponent": "Chennai Super Kings"
   },
   {
-    "info": "st †Bairstow b Rashid Khan",
-    "runs": "0",
-    "balls": "2",
-    "fours": "0",
+    "info": "not out ",
+    "runs": "15",
+    "balls": "22",
+    "fours": "1",
     "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "43rd Match (N)",
+    "strike_rate": "68.18",
+    "match_number": "38th Match (N)",
     "venue": "Dubai",
-    "date": "Oct 24 2020",
-    "match_status": "Kings XI won by 12 runs",
-    "opponent": "Sunrisers Hyderabad"
+    "date": "Oct 20 2020",
+    "match_status": "Kings XI won by 5 wickets (with 6 balls remaining)",
+    "opponent": "Delhi Capitals"
   },
   {
     "info": "not out ",
@@ -39,16 +39,16 @@
     "opponent": "Mumbai Indians"
   },
   {
-    "info": "not out ",
-    "runs": "1",
-    "balls": "1",
+    "info": "st †Bairstow b Rashid Khan",
+    "runs": "0",
+    "balls": "2",
     "fours": "0",
     "sixes": "0",
-    "strike_rate": "100.00",
-    "match_number": "50th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 30 2020",
-    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
-    "opponent": "Rajasthan Royals"
+    "strike_rate": "0.00",
+    "match_number": "43rd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 24 2020",
+    "match_status": "Kings XI won by 12 runs",
+    "opponent": "Sunrisers Hyderabad"
   }
 ]

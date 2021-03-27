@@ -13,29 +13,29 @@
     "opponent": "Chennai Super Kings"
   },
   {
-    "info": "c & b Natarajan",
-    "runs": "21",
-    "balls": "18",
-    "fours": "2",
+    "info": "c Jordan b Ashwin",
+    "runs": "13",
+    "balls": "14",
+    "fours": "1",
     "sixes": "0",
-    "strike_rate": "116.67",
-    "match_number": "52nd Match (N)",
+    "strike_rate": "92.86",
+    "match_number": "31st Match (N)",
     "venue": "Sharjah",
-    "date": "Oct 31 2020",
-    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
-    "opponent": "Sunrisers Hyderabad"
+    "date": "Oct 15 2020",
+    "match_status": "Kings XI won by 8 wickets",
+    "opponent": "Kings XI Punjab"
   },
   {
-    "info": "c Ashwin b Rabada",
-    "runs": "17",
-    "balls": "11",
-    "fours": "3",
+    "info": "not out ",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
     "sixes": "0",
-    "strike_rate": "154.55",
-    "match_number": "19th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 5 2020",
-    "match_status": "Capitals won by 59 runs",
+    "strike_rate": "0.00",
+    "match_number": "55th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 2 2020",
+    "match_status": "Capitals won by 6 wickets (with 6 balls remaining)",
     "opponent": "Delhi Capitals"
   },
   {
@@ -65,6 +65,32 @@
     "opponent": "Mumbai Indians"
   },
   {
+    "info": "c Agarwal b Ravi Bishnoi",
+    "runs": "30",
+    "balls": "27",
+    "fours": "2",
+    "sixes": "1",
+    "strike_rate": "111.11",
+    "match_number": "6th Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 24 2020",
+    "match_status": "Kings XI won by 97 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "c Ashwin b Rabada",
+    "runs": "17",
+    "balls": "11",
+    "fours": "3",
+    "sixes": "0",
+    "strike_rate": "154.55",
+    "match_number": "19th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 5 2020",
+    "match_status": "Capitals won by 59 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
     "info": "c †Dhoni b Curran",
     "runs": "10",
     "balls": "10",
@@ -76,31 +102,5 @@
     "date": "Oct 10 2020",
     "match_status": "RCB won by 37 runs",
     "opponent": "Chennai Super Kings"
-  },
-  {
-    "info": "c Jordan b Ashwin",
-    "runs": "13",
-    "balls": "14",
-    "fours": "1",
-    "sixes": "0",
-    "strike_rate": "92.86",
-    "match_number": "31st Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 15 2020",
-    "match_status": "Kings XI won by 8 wickets",
-    "opponent": "Kings XI Punjab"
-  },
-  {
-    "info": "not out ",
-    "runs": "0",
-    "balls": "1",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "55th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Nov 2 2020",
-    "match_status": "Capitals won by 6 wickets (with 6 balls remaining)",
-    "opponent": "Delhi Capitals"
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "info": "c HH Pandya b Boult",
-    "runs": "25",
-    "balls": "15",
-    "fours": "2",
-    "sixes": "2",
-    "strike_rate": "166.67",
-    "match_number": "17th Match",
-    "venue": "Sharjah",
-    "date": "Oct 4 2020",
-    "match_status": "Mum Indians won by 34 runs",
-    "opponent": "Mumbai Indians"
-  },
-  {
     "info": "c Nortje b Rabada",
     "runs": "53",
     "balls": "48",
@@ -52,6 +39,19 @@
     "opponent": "Kings XI Punjab"
   },
   {
+    "info": "c HH Pandya b Boult",
+    "runs": "25",
+    "balls": "15",
+    "fours": "2",
+    "sixes": "2",
+    "strike_rate": "166.67",
+    "match_number": "17th Match",
+    "venue": "Sharjah",
+    "date": "Oct 4 2020",
+    "match_status": "Mum Indians won by 34 runs",
+    "opponent": "Mumbai Indians"
+  },
+  {
     "info": " b Chahal",
     "runs": "61",
     "balls": "43",
@@ -65,17 +65,30 @@
     "opponent": "Royal Challengers Bangalore"
   },
   {
-    "info": "c Samson b Kartik Tyagi",
-    "runs": "16",
-    "balls": "19",
-    "fours": "0",
-    "sixes": "1",
-    "strike_rate": "84.21",
-    "match_number": "26th Match",
+    "info": "lbw b Ravi Bishnoi",
+    "runs": "97",
+    "balls": "55",
+    "fours": "7",
+    "sixes": "6",
+    "strike_rate": "176.36",
+    "match_number": "22nd Match (N)",
     "venue": "Dubai",
-    "date": "Oct 11 2020",
-    "match_status": "Royals won by 5 wickets (with 1 ball remaining)",
-    "opponent": "Rajasthan Royals"
+    "date": "Oct 8 2020",
+    "match_status": "Sunrisers won by 69 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": " b Chahar",
+    "runs": "0",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "14th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 2 2020",
+    "match_status": "Sunrisers won by 7 runs",
+    "opponent": "Chennai Super Kings"
   },
   {
     "info": " b Jadeja",
@@ -91,29 +104,16 @@
     "opponent": "Chennai Super Kings"
   },
   {
-    "info": " b Archer",
-    "runs": "10",
-    "balls": "7",
-    "fours": "1",
+    "info": "c Samson b Kartik Tyagi",
+    "runs": "16",
+    "balls": "19",
+    "fours": "0",
     "sixes": "1",
-    "strike_rate": "142.86",
-    "match_number": "40th Match (N)",
+    "strike_rate": "84.21",
+    "match_number": "26th Match",
     "venue": "Dubai",
-    "date": "Oct 22 2020",
-    "match_status": "Sunrisers won by 8 wickets (with 11 balls remaining)",
+    "date": "Oct 11 2020",
+    "match_status": "Royals won by 5 wickets (with 1 ball remaining)",
     "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "lbw b Ravi Bishnoi",
-    "runs": "97",
-    "balls": "55",
-    "fours": "7",
-    "sixes": "6",
-    "strike_rate": "176.36",
-    "match_number": "22nd Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 8 2020",
-    "match_status": "Sunrisers won by 69 runs",
-    "opponent": "Kings XI Punjab"
   }
 ]

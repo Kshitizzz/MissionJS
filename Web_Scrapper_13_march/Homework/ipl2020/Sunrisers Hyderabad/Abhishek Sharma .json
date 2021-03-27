@@ -1,18 +1,5 @@
 [
   {
-    "info": " b Bumrah",
-    "runs": "10",
-    "balls": "13",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "76.92",
-    "match_number": "17th Match",
-    "venue": "Sharjah",
-    "date": "Oct 4 2020",
-    "match_status": "Mum Indians won by 34 runs",
-    "opponent": "Mumbai Indians"
-  },
-  {
     "info": "not out ",
     "runs": "1",
     "balls": "1",
@@ -26,30 +13,17 @@
     "opponent": "Delhi Capitals"
   },
   {
-    "info": "not out ",
-    "runs": "2",
-    "balls": "3",
+    "info": " b Bumrah",
+    "runs": "10",
+    "balls": "13",
     "fours": "0",
     "sixes": "0",
-    "strike_rate": "66.67",
-    "match_number": "8th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Sep 26 2020",
-    "match_status": "KKR won by 7 wickets (with 12 balls remaining)",
-    "opponent": "Kolkata Knight Riders"
-  },
-  {
-    "info": "c Gurkeerat Singh b Saini",
-    "runs": "8",
-    "balls": "5",
-    "fours": "0",
-    "sixes": "1",
-    "strike_rate": "160.00",
-    "match_number": "52nd Match (N)",
+    "strike_rate": "76.92",
+    "match_number": "17th Match",
     "venue": "Sharjah",
-    "date": "Oct 31 2020",
-    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
+    "date": "Oct 4 2020",
+    "match_status": "Mum Indians won by 34 runs",
+    "opponent": "Mumbai Indians"
   },
   {
     "info": "run out (Yadav/†Philippe)",
@@ -65,6 +39,19 @@
     "opponent": "Royal Challengers Bangalore"
   },
   {
+    "info": "not out ",
+    "runs": "2",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "66.67",
+    "match_number": "8th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 26 2020",
+    "match_status": "KKR won by 7 wickets (with 12 balls remaining)",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
     "info": "c Maxwell b Mohammed Shami",
     "runs": "12",
     "balls": "6",
@@ -76,5 +63,18 @@
     "date": "Oct 8 2020",
     "match_status": "Sunrisers won by 69 runs",
     "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "c †Dhoni b Chahar",
+    "runs": "31",
+    "balls": "24",
+    "fours": "4",
+    "sixes": "1",
+    "strike_rate": "129.17",
+    "match_number": "14th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 2 2020",
+    "match_status": "Sunrisers won by 7 runs",
+    "opponent": "Chennai Super Kings"
   }
 ]

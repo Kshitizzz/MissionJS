@@ -1,16 +1,55 @@
 [
   {
-    "info": " b Washington Sundar",
+    "info": " b Mohammed Siraj",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "39th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 21 2020",
+    "match_status": "RCB won by 8 wickets (with 39 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "c Jadeja b Sharma",
     "runs": "9",
-    "balls": "14",
+    "balls": "10",
     "fours": "1",
     "sixes": "0",
-    "strike_rate": "64.29",
-    "match_number": "28th Match (N)",
+    "strike_rate": "90.00",
+    "match_number": "21st Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 7 2020",
+    "match_status": "KKR won by 10 runs",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c †de Kock b Coulter-Nile",
+    "runs": "5",
+    "balls": "6",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "83.33",
+    "match_number": "32nd Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 16 2020",
+    "match_status": "Mum Indians won by 8 wickets (with 19 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "c Gayle b Maxwell",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "46th Match (N)",
     "venue": "Sharjah",
-    "date": "Oct 12 2020",
-    "match_status": "RCB won by 82 runs",
-    "opponent": "Royal Challengers Bangalore"
+    "date": "Oct 26 2020",
+    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
+    "opponent": "Kings XI Punjab"
   },
   {
     "info": "c Curran b Ngidi",
@@ -26,6 +65,45 @@
     "opponent": "Chennai Super Kings"
   },
   {
+    "info": "c Garg b Shankar",
+    "runs": "29",
+    "balls": "20",
+    "fours": "3",
+    "sixes": "1",
+    "strike_rate": "145.00",
+    "match_number": "35th Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 18 2020",
+    "match_status": "Match tied (KKR won the one-over eliminator)",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "c Deshpande b Stoinis",
+    "runs": "81",
+    "balls": "53",
+    "fours": "13",
+    "sixes": "1",
+    "strike_rate": "152.83",
+    "match_number": "42nd Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "c †Samson b Archer",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "54th Match (N)",
+    "venue": "Dubai",
+    "date": "Nov 1 2020",
+    "match_status": "KKR won by 60 runs",
+    "opponent": "Rajasthan Royals"
+  },
+  {
     "info": "c sub (AR Patel) b Patel",
     "runs": "58",
     "balls": "35",
@@ -37,19 +115,6 @@
     "date": "Oct 3 2020",
     "match_status": "Capitals won by 18 runs",
     "opponent": "Delhi Capitals"
-  },
-  {
-    "info": "run out (Mohammed Shami/Pooran)",
-    "runs": "2",
-    "balls": "4",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "50.00",
-    "match_number": "24th Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 10 2020",
-    "match_status": "KKR won by 2 runs",
-    "opponent": "Kings XI Punjab"
   },
   {
     "info": "c Parag b Tewatia",
@@ -78,58 +143,6 @@
     "opponent": "Sunrisers Hyderabad"
   },
   {
-    "info": "c Garg b Shankar",
-    "runs": "29",
-    "balls": "20",
-    "fours": "3",
-    "sixes": "1",
-    "strike_rate": "145.00",
-    "match_number": "35th Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 18 2020",
-    "match_status": "Match tied (KKR won the one-over eliminator)",
-    "opponent": "Sunrisers Hyderabad"
-  },
-  {
-    "info": " b Mohammed Siraj",
-    "runs": "0",
-    "balls": "1",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "39th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 21 2020",
-    "match_status": "RCB won by 8 wickets (with 39 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
-  },
-  {
-    "info": "c Gayle b Maxwell",
-    "runs": "0",
-    "balls": "1",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "46th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 26 2020",
-    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
-    "opponent": "Kings XI Punjab"
-  },
-  {
-    "info": "c Jadeja b Sharma",
-    "runs": "9",
-    "balls": "10",
-    "fours": "1",
-    "sixes": "0",
-    "strike_rate": "90.00",
-    "match_number": "21st Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 7 2020",
-    "match_status": "KKR won by 10 runs",
-    "opponent": "Chennai Super Kings"
-  },
-  {
     "info": "c HH Pandya b Pollard",
     "runs": "24",
     "balls": "18",
@@ -143,29 +156,16 @@
     "opponent": "Mumbai Indians"
   },
   {
-    "info": "c †Samson b Archer",
-    "runs": "0",
-    "balls": "1",
-    "fours": "0",
+    "info": " b Washington Sundar",
+    "runs": "9",
+    "balls": "14",
+    "fours": "1",
     "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "54th Match (N)",
-    "venue": "Dubai",
-    "date": "Nov 1 2020",
-    "match_status": "KKR won by 60 runs",
-    "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "c Deshpande b Stoinis",
-    "runs": "81",
-    "balls": "53",
-    "fours": "13",
-    "sixes": "1",
-    "strike_rate": "152.83",
-    "match_number": "42nd Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 24 2020",
-    "match_status": "KKR won by 59 runs",
-    "opponent": "Delhi Capitals"
+    "strike_rate": "64.29",
+    "match_number": "28th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 12 2020",
+    "match_status": "RCB won by 82 runs",
+    "opponent": "Royal Challengers Bangalore"
   }
 ]

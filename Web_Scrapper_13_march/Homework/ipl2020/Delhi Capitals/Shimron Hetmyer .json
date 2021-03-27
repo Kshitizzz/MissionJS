@@ -1,18 +1,5 @@
 [
   {
-    "info": "c Coulter-Nile b Boult",
-    "runs": "5",
-    "balls": "5",
-    "fours": "1",
-    "sixes": "0",
-    "strike_rate": "100.00",
-    "match_number": "Final (N)",
-    "venue": "Dubai",
-    "date": "Nov 10 2020",
-    "match_status": "Mum Indians won by 5 wickets (with 8 balls remaining)",
-    "opponent": "Mumbai Indians"
-  },
-  {
     "info": " b Rashid Khan",
     "runs": "16",
     "balls": "13",
@@ -26,43 +13,17 @@
     "opponent": "Sunrisers Hyderabad"
   },
   {
-    "info": "not out ",
-    "runs": "42",
-    "balls": "22",
-    "fours": "4",
-    "sixes": "1",
-    "strike_rate": "190.91",
-    "match_number": "Qualifier 2 (N)",
-    "venue": "Abu Dhabi",
-    "date": "Nov 8 2020",
-    "match_status": "Capitals won by 17 runs",
-    "opponent": "Sunrisers Hyderabad"
-  },
-  {
-    "info": "c Pandey b Kumar",
-    "runs": "21",
-    "balls": "12",
-    "fours": "0",
-    "sixes": "2",
-    "strike_rate": "175.00",
-    "match_number": "11th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Sep 29 2020",
-    "match_status": "Sunrisers won by 15 runs",
-    "opponent": "Sunrisers Hyderabad"
-  },
-  {
-    "info": "not out ",
-    "runs": "7",
-    "balls": "5",
+    "info": " b Mohammed Shami",
+    "runs": "10",
+    "balls": "6",
     "fours": "0",
     "sixes": "1",
-    "strike_rate": "140.00",
-    "match_number": "16th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 3 2020",
-    "match_status": "Capitals won by 18 runs",
-    "opponent": "Kolkata Knight Riders"
+    "strike_rate": "166.67",
+    "match_number": "38th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 20 2020",
+    "match_status": "Kings XI won by 5 wickets (with 6 balls remaining)",
+    "opponent": "Kings XI Punjab"
   },
   {
     "info": "c Pandya b Coulter-Nile",
@@ -78,17 +39,56 @@
     "opponent": "Mumbai Indians"
   },
   {
-    "info": "c Tewatia b Kartik Tyagi",
-    "runs": "45",
-    "balls": "24",
-    "fours": "1",
-    "sixes": "5",
-    "strike_rate": "187.50",
-    "match_number": "23rd Match (N)",
+    "info": "c Pandey b Kumar",
+    "runs": "21",
+    "balls": "12",
+    "fours": "0",
+    "sixes": "2",
+    "strike_rate": "175.00",
+    "match_number": "11th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 29 2020",
+    "match_status": "Sunrisers won by 15 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "c Tripathi b Varun",
+    "runs": "10",
+    "balls": "5",
+    "fours": "0",
+    "sixes": "1",
+    "strike_rate": "200.00",
+    "match_number": "42nd Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "not out ",
+    "runs": "42",
+    "balls": "22",
+    "fours": "4",
+    "sixes": "1",
+    "strike_rate": "190.91",
+    "match_number": "Qualifier 2 (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 8 2020",
+    "match_status": "Capitals won by 17 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "not out ",
+    "runs": "7",
+    "balls": "5",
+    "fours": "0",
+    "sixes": "1",
+    "strike_rate": "140.00",
+    "match_number": "16th Match (N)",
     "venue": "Sharjah",
-    "date": "Oct 9 2020",
-    "match_status": "Capitals won by 46 runs",
-    "opponent": "Rajasthan Royals"
+    "date": "Oct 3 2020",
+    "match_status": "Capitals won by 18 runs",
+    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": "not out ",
@@ -117,16 +117,16 @@
     "opponent": "Kings XI Punjab"
   },
   {
-    "info": "c Tripathi b Varun",
-    "runs": "10",
-    "balls": "5",
-    "fours": "0",
-    "sixes": "1",
-    "strike_rate": "200.00",
-    "match_number": "42nd Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 24 2020",
-    "match_status": "KKR won by 59 runs",
-    "opponent": "Kolkata Knight Riders"
+    "info": "c Tewatia b Kartik Tyagi",
+    "runs": "45",
+    "balls": "24",
+    "fours": "1",
+    "sixes": "5",
+    "strike_rate": "187.50",
+    "match_number": "23rd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 9 2020",
+    "match_status": "Capitals won by 46 runs",
+    "opponent": "Rajasthan Royals"
   }
 ]

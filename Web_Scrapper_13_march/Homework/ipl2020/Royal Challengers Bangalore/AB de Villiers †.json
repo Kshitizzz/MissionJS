@@ -1,18 +1,5 @@
 [
   {
-    "info": "not out ",
-    "runs": "73",
-    "balls": "33",
-    "fours": "5",
-    "sixes": "6",
-    "strike_rate": "221.21",
-    "match_number": "28th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 12 2020",
-    "match_status": "RCB won by 82 runs",
-    "opponent": "Kolkata Knight Riders"
-  },
-  {
     "info": "c du Plessis b Chahar",
     "runs": "39",
     "balls": "36",
@@ -26,42 +13,29 @@
     "opponent": "Chennai Super Kings"
   },
   {
-    "info": "not out ",
-    "runs": "12",
-    "balls": "10",
-    "fours": "1",
+    "info": "c Hooda b Mohammed Shami",
+    "runs": "2",
+    "balls": "5",
+    "fours": "0",
     "sixes": "0",
-    "strike_rate": "120.00",
-    "match_number": "15th Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 3 2020",
-    "match_status": "RCB won by 8 wickets (with 5 balls remaining)",
-    "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "c Abhishek Sharma b Nadeem",
-    "runs": "24",
-    "balls": "24",
-    "fours": "1",
-    "sixes": "1",
-    "strike_rate": "100.00",
-    "match_number": "52nd Match (N)",
+    "strike_rate": "40.00",
+    "match_number": "31st Match (N)",
     "venue": "Sharjah",
-    "date": "Oct 31 2020",
-    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
-    "opponent": "Sunrisers Hyderabad"
+    "date": "Oct 15 2020",
+    "match_status": "Kings XI won by 8 wickets",
+    "opponent": "Kings XI Punjab"
   },
   {
-    "info": "c Dhawan b Nortje",
-    "runs": "9",
-    "balls": "6",
-    "fours": "2",
-    "sixes": "0",
-    "strike_rate": "150.00",
-    "match_number": "19th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 5 2020",
-    "match_status": "Capitals won by 59 runs",
+    "info": "run out (Rahane/†Pant)",
+    "runs": "35",
+    "balls": "21",
+    "fours": "1",
+    "sixes": "2",
+    "strike_rate": "166.67",
+    "match_number": "55th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 2 2020",
+    "match_status": "Capitals won by 6 wickets (with 6 balls remaining)",
     "opponent": "Delhi Capitals"
   },
   {
@@ -92,6 +66,19 @@
   },
   {
     "info": "not out ",
+    "runs": "12",
+    "balls": "10",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "120.00",
+    "match_number": "15th Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 3 2020",
+    "match_status": "RCB won by 8 wickets (with 5 balls remaining)",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "not out ",
     "runs": "55",
     "balls": "22",
     "fours": "1",
@@ -102,6 +89,45 @@
     "date": "Oct 17 2020",
     "match_status": "RCB won by 7 wickets (with 2 balls remaining)",
     "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "c Dhawan b Nortje",
+    "runs": "9",
+    "balls": "6",
+    "fours": "2",
+    "sixes": "0",
+    "strike_rate": "150.00",
+    "match_number": "19th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 5 2020",
+    "match_status": "Capitals won by 59 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "not out ",
+    "runs": "73",
+    "balls": "33",
+    "fours": "5",
+    "sixes": "6",
+    "strike_rate": "221.21",
+    "match_number": "28th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 12 2020",
+    "match_status": "RCB won by 82 runs",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "not out ",
+    "runs": "55",
+    "balls": "24",
+    "fours": "4",
+    "sixes": "4",
+    "strike_rate": "229.17",
+    "match_number": "10th Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 28 2020",
+    "match_status": "Match tied (RCB won the one-over eliminator)",
+    "opponent": "Mumbai Indians"
   },
   {
     "info": "c †Dhoni b Thakur",
@@ -115,31 +141,5 @@
     "date": "Oct 10 2020",
     "match_status": "RCB won by 37 runs",
     "opponent": "Chennai Super Kings"
-  },
-  {
-    "info": "c Hooda b Mohammed Shami",
-    "runs": "2",
-    "balls": "5",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "40.00",
-    "match_number": "31st Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 15 2020",
-    "match_status": "Kings XI won by 8 wickets",
-    "opponent": "Kings XI Punjab"
-  },
-  {
-    "info": "run out (Rahane/†Pant)",
-    "runs": "35",
-    "balls": "21",
-    "fours": "1",
-    "sixes": "2",
-    "strike_rate": "166.67",
-    "match_number": "55th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Nov 2 2020",
-    "match_status": "Capitals won by 6 wickets (with 6 balls remaining)",
-    "opponent": "Delhi Capitals"
   }
 ]

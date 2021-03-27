@@ -1,5 +1,18 @@
 [
   {
+    "info": "c Pooran b Jordan",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "43rd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 24 2020",
+    "match_status": "Kings XI won by 12 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
     "info": "c Patel b Rabada",
     "runs": "11",
     "balls": "7",
@@ -14,29 +27,16 @@
   },
   {
     "info": "not out ",
-    "runs": "1",
-    "balls": "2",
+    "runs": "3",
+    "balls": "7",
     "fours": "0",
     "sixes": "0",
-    "strike_rate": "50.00",
-    "match_number": "35th Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 18 2020",
-    "match_status": "Match tied (KKR won the one-over eliminator)",
-    "opponent": "Kolkata Knight Riders"
-  },
-  {
-    "info": "c Pooran b Jordan",
-    "runs": "0",
-    "balls": "1",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "43rd Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 24 2020",
-    "match_status": "Kings XI won by 12 runs",
-    "opponent": "Kings XI Punjab"
+    "strike_rate": "42.86",
+    "match_number": "17th Match",
+    "venue": "Sharjah",
+    "date": "Oct 4 2020",
+    "match_status": "Mum Indians won by 34 runs",
+    "opponent": "Mumbai Indians"
   },
   {
     "info": " b Saini",
@@ -52,19 +52,6 @@
     "opponent": "Royal Challengers Bangalore"
   },
   {
-    "info": "hit wicket b Thakur",
-    "runs": "14",
-    "balls": "8",
-    "fours": "1",
-    "sixes": "1",
-    "strike_rate": "175.00",
-    "match_number": "29th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 13 2020",
-    "match_status": "Super Kings won by 20 runs",
-    "opponent": "Chennai Super Kings"
-  },
-  {
     "info": "not out ",
     "runs": "0",
     "balls": "0",
@@ -76,5 +63,18 @@
     "date": "Oct 8 2020",
     "match_status": "Sunrisers won by 69 runs",
     "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "hit wicket b Thakur",
+    "runs": "14",
+    "balls": "8",
+    "fours": "1",
+    "sixes": "1",
+    "strike_rate": "175.00",
+    "match_number": "29th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 13 2020",
+    "match_status": "Super Kings won by 20 runs",
+    "opponent": "Chennai Super Kings"
   }
 ]

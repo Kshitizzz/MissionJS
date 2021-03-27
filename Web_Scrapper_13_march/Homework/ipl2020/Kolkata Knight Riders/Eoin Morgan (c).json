@@ -1,5 +1,31 @@
 [
   {
+    "info": "not out ",
+    "runs": "39",
+    "balls": "29",
+    "fours": "2",
+    "sixes": "2",
+    "strike_rate": "134.48",
+    "match_number": "32nd Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 16 2020",
+    "match_status": "Mum Indians won by 8 wickets (with 19 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "c Ashwin b Ravi Bishnoi",
+    "runs": "40",
+    "balls": "25",
+    "fours": "5",
+    "sixes": "2",
+    "strike_rate": "160.00",
+    "match_number": "46th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 26 2020",
+    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
+    "opponent": "Kings XI Punjab"
+  },
+  {
     "info": "c Gaikwad b Ngidi",
     "runs": "15",
     "balls": "12",
@@ -26,30 +52,17 @@
     "opponent": "Sunrisers Hyderabad"
   },
   {
-    "info": "c Gurkeerat Singh b Washington Sundar",
-    "runs": "30",
-    "balls": "34",
-    "fours": "3",
+    "info": "c Rabada b Stoinis",
+    "runs": "17",
+    "balls": "9",
+    "fours": "2",
     "sixes": "1",
-    "strike_rate": "88.24",
-    "match_number": "39th Match (N)",
+    "strike_rate": "188.89",
+    "match_number": "42nd Match",
     "venue": "Abu Dhabi",
-    "date": "Oct 21 2020",
-    "match_status": "RCB won by 8 wickets (with 39 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
-  },
-  {
-    "info": "c Ashwin b Ravi Bishnoi",
-    "runs": "40",
-    "balls": "25",
-    "fours": "5",
-    "sixes": "2",
-    "strike_rate": "160.00",
-    "match_number": "46th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 26 2020",
-    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
-    "opponent": "Kings XI Punjab"
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Delhi Capitals"
   },
   {
     "info": "not out ",
@@ -63,18 +76,5 @@
     "date": "Nov 1 2020",
     "match_status": "KKR won by 60 runs",
     "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "c Rabada b Stoinis",
-    "runs": "17",
-    "balls": "9",
-    "fours": "2",
-    "sixes": "1",
-    "strike_rate": "188.89",
-    "match_number": "42nd Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 24 2020",
-    "match_status": "KKR won by 59 runs",
-    "opponent": "Delhi Capitals"
   }
 ]

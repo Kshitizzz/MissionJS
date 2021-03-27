@@ -1,5 +1,18 @@
 [
   {
+    "info": "not out ",
+    "runs": "21",
+    "balls": "5",
+    "fours": "0",
+    "sixes": "3",
+    "strike_rate": "420.00",
+    "match_number": "34th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 17 2020",
+    "match_status": "Capitals won by 5 wickets (with 1 ball remaining)",
+    "opponent": "Chennai Super Kings"
+  },
+  {
     "info": "c sub (PK Garg) b Rashid Khan",
     "runs": "1",
     "balls": "4",
@@ -26,6 +39,19 @@
     "opponent": "Sunrisers Hyderabad"
   },
   {
+    "info": " b Varun",
+    "runs": "9",
+    "balls": "7",
+    "fours": "0",
+    "sixes": "1",
+    "strike_rate": "128.57",
+    "match_number": "42nd Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
     "info": "c Chahar b Pollard",
     "runs": "42",
     "balls": "33",
@@ -37,45 +63,6 @@
     "date": "Nov 5 2020",
     "match_status": "Mum Indians won by 57 runs",
     "opponent": "Mumbai Indians"
-  },
-  {
-    "info": "c †Buttler b Tye",
-    "runs": "17",
-    "balls": "8",
-    "fours": "2",
-    "sixes": "1",
-    "strike_rate": "212.50",
-    "match_number": "23rd Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 9 2020",
-    "match_status": "Capitals won by 46 runs",
-    "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "c Kartik Tyagi b Unadkat",
-    "runs": "7",
-    "balls": "4",
-    "fours": "1",
-    "sixes": "0",
-    "strike_rate": "175.00",
-    "match_number": "30th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 14 2020",
-    "match_status": "Capitals won by 13 runs",
-    "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "not out ",
-    "runs": "21",
-    "balls": "5",
-    "fours": "0",
-    "sixes": "3",
-    "strike_rate": "420.00",
-    "match_number": "34th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 17 2020",
-    "match_status": "Capitals won by 5 wickets (with 1 ball remaining)",
-    "opponent": "Chennai Super Kings"
   },
   {
     "info": "c †Rahul b Cottrell",
@@ -91,16 +78,29 @@
     "opponent": "Kings XI Punjab"
   },
   {
-    "info": " b Varun",
-    "runs": "9",
-    "balls": "7",
-    "fours": "0",
+    "info": "c Kartik Tyagi b Unadkat",
+    "runs": "7",
+    "balls": "4",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "175.00",
+    "match_number": "30th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 14 2020",
+    "match_status": "Capitals won by 13 runs",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "c †Buttler b Tye",
+    "runs": "17",
+    "balls": "8",
+    "fours": "2",
     "sixes": "1",
-    "strike_rate": "128.57",
-    "match_number": "42nd Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 24 2020",
-    "match_status": "KKR won by 59 runs",
-    "opponent": "Kolkata Knight Riders"
+    "strike_rate": "212.50",
+    "match_number": "23rd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 9 2020",
+    "match_status": "Capitals won by 46 runs",
+    "opponent": "Rajasthan Royals"
   }
 ]

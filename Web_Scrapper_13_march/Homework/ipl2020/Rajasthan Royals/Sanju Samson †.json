@@ -1,18 +1,5 @@
 [
   {
-    "info": "not out ",
-    "runs": "54",
-    "balls": "31",
-    "fours": "4",
-    "sixes": "3",
-    "strike_rate": "174.19",
-    "match_number": "45th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 25 2020",
-    "match_status": "Royals won by 8 wickets (with 10 balls remaining)",
-    "opponent": "Mumbai Indians"
-  },
-  {
     "info": "run out (sub [J Suchith])",
     "runs": "48",
     "balls": "25",
@@ -26,30 +13,30 @@
     "opponent": "Kings XI Punjab"
   },
   {
-    "info": "c Chahar b Ngidi",
-    "runs": "74",
-    "balls": "32",
-    "fours": "1",
-    "sixes": "9",
-    "strike_rate": "231.25",
-    "match_number": "4th Match (N)",
-    "venue": "Sharjah",
-    "date": "Sep 22 2020",
-    "match_status": "Royals won by 16 runs",
+    "info": "c †Dhoni b Chahar",
+    "runs": "0",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "37th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 19 2020",
+    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
     "opponent": "Chennai Super Kings"
   },
   {
-    "info": " b Holder",
-    "runs": "36",
-    "balls": "26",
-    "fours": "3",
-    "sixes": "1",
-    "strike_rate": "138.46",
-    "match_number": "40th Match (N)",
+    "info": "c †Karthik b Shivam Mavi",
+    "runs": "1",
+    "balls": "4",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "25.00",
+    "match_number": "54th Match (N)",
     "venue": "Dubai",
-    "date": "Oct 22 2020",
-    "match_status": "Sunrisers won by 8 wickets (with 11 balls remaining)",
-    "opponent": "Sunrisers Hyderabad"
+    "date": "Nov 1 2020",
+    "match_status": "KKR won by 60 runs",
+    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": "c Morris b Chahal",
@@ -65,16 +52,29 @@
     "opponent": "Royal Challengers Bangalore"
   },
   {
-    "info": "c †Karthik b Shivam Mavi",
-    "runs": "1",
-    "balls": "4",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "25.00",
-    "match_number": "54th Match (N)",
-    "venue": "Dubai",
-    "date": "Nov 1 2020",
-    "match_status": "KKR won by 60 runs",
-    "opponent": "Kolkata Knight Riders"
+    "info": "c Chahar b Ngidi",
+    "runs": "74",
+    "balls": "32",
+    "fours": "1",
+    "sixes": "9",
+    "strike_rate": "231.25",
+    "match_number": "4th Match (N)",
+    "venue": "Sharjah",
+    "date": "Sep 22 2020",
+    "match_status": "Royals won by 16 runs",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "not out ",
+    "runs": "54",
+    "balls": "31",
+    "fours": "4",
+    "sixes": "3",
+    "strike_rate": "174.19",
+    "match_number": "45th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 25 2020",
+    "match_status": "Royals won by 8 wickets (with 10 balls remaining)",
+    "opponent": "Mumbai Indians"
   }
 ]

@@ -14,29 +14,16 @@
   },
   {
     "info": "not out ",
-    "runs": "0",
-    "balls": "1",
-    "fours": "0",
+    "runs": "14",
+    "balls": "13",
+    "fours": "2",
     "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "23rd Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 9 2020",
-    "match_status": "Capitals won by 46 runs",
-    "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "not out ",
-    "runs": "0",
-    "balls": "0",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "30th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 14 2020",
-    "match_status": "Capitals won by 13 runs",
-    "opponent": "Rajasthan Royals"
+    "strike_rate": "107.69",
+    "match_number": "42nd Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": "c Mohammed Shami b Cottrell",
@@ -53,15 +40,28 @@
   },
   {
     "info": "not out ",
-    "runs": "14",
-    "balls": "13",
-    "fours": "2",
+    "runs": "0",
+    "balls": "0",
+    "fours": "0",
     "sixes": "0",
-    "strike_rate": "107.69",
-    "match_number": "42nd Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 24 2020",
-    "match_status": "KKR won by 59 runs",
-    "opponent": "Kolkata Knight Riders"
+    "strike_rate": "0.00",
+    "match_number": "30th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 14 2020",
+    "match_status": "Capitals won by 13 runs",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "not out ",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "23rd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 9 2020",
+    "match_status": "Capitals won by 46 runs",
+    "opponent": "Rajasthan Royals"
   }
 ]

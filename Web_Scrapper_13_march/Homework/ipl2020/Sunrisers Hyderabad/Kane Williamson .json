@@ -1,18 +1,5 @@
 [
   {
-    "info": "c †de Kock b Boult",
-    "runs": "3",
-    "balls": "5",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "60.00",
-    "match_number": "17th Match",
-    "venue": "Sharjah",
-    "date": "Oct 4 2020",
-    "match_status": "Mum Indians won by 34 runs",
-    "opponent": "Mumbai Indians"
-  },
-  {
     "info": "not out ",
     "runs": "11",
     "balls": "10",
@@ -26,17 +13,17 @@
     "opponent": "Delhi Capitals"
   },
   {
-    "info": "c Rabada b Stoinis",
-    "runs": "67",
-    "balls": "45",
-    "fours": "5",
-    "sixes": "4",
-    "strike_rate": "148.89",
-    "match_number": "Qualifier 2 (N)",
+    "info": "not out ",
+    "runs": "50",
+    "balls": "44",
+    "fours": "2",
+    "sixes": "2",
+    "strike_rate": "113.64",
+    "match_number": "Eliminator (N)",
     "venue": "Abu Dhabi",
-    "date": "Nov 8 2020",
-    "match_status": "Capitals won by 17 runs",
-    "opponent": "Delhi Capitals"
+    "date": "Nov 6 2020",
+    "match_status": "Sunrisers won by 6 wickets (with 2 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
   },
   {
     "info": "c Patel b Rabada",
@@ -65,30 +52,56 @@
     "opponent": "Kolkata Knight Riders"
   },
   {
-    "info": "c Kohli b Udana",
-    "runs": "8",
-    "balls": "14",
+    "info": "c Rabada b Stoinis",
+    "runs": "67",
+    "balls": "45",
+    "fours": "5",
+    "sixes": "4",
+    "strike_rate": "148.89",
+    "match_number": "Qualifier 2 (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 8 2020",
+    "match_status": "Capitals won by 17 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "c †de Kock b Boult",
+    "runs": "3",
+    "balls": "5",
     "fours": "0",
     "sixes": "0",
-    "strike_rate": "57.14",
-    "match_number": "52nd Match (N)",
+    "strike_rate": "60.00",
+    "match_number": "17th Match",
     "venue": "Sharjah",
-    "date": "Oct 31 2020",
-    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
+    "date": "Oct 4 2020",
+    "match_status": "Mum Indians won by 34 runs",
+    "opponent": "Mumbai Indians"
   },
   {
     "info": "not out ",
-    "runs": "22",
-    "balls": "12",
-    "fours": "0",
-    "sixes": "2",
-    "strike_rate": "183.33",
-    "match_number": "26th Match",
+    "runs": "20",
+    "balls": "10",
+    "fours": "1",
+    "sixes": "1",
+    "strike_rate": "200.00",
+    "match_number": "22nd Match (N)",
     "venue": "Dubai",
-    "date": "Oct 11 2020",
-    "match_status": "Royals won by 5 wickets (with 1 ball remaining)",
-    "opponent": "Rajasthan Royals"
+    "date": "Oct 8 2020",
+    "match_status": "Sunrisers won by 69 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "run out (Rayudu/†Dhoni)",
+    "runs": "9",
+    "balls": "13",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "69.23",
+    "match_number": "14th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 2 2020",
+    "match_status": "Sunrisers won by 7 runs",
+    "opponent": "Chennai Super Kings"
   },
   {
     "info": "c Thakur b Sharma",
@@ -105,28 +118,15 @@
   },
   {
     "info": "not out ",
-    "runs": "50",
-    "balls": "44",
-    "fours": "2",
+    "runs": "22",
+    "balls": "12",
+    "fours": "0",
     "sixes": "2",
-    "strike_rate": "113.64",
-    "match_number": "Eliminator (N)",
-    "venue": "Abu Dhabi",
-    "date": "Nov 6 2020",
-    "match_status": "Sunrisers won by 6 wickets (with 2 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
-  },
-  {
-    "info": "not out ",
-    "runs": "20",
-    "balls": "10",
-    "fours": "1",
-    "sixes": "1",
-    "strike_rate": "200.00",
-    "match_number": "22nd Match (N)",
+    "strike_rate": "183.33",
+    "match_number": "26th Match",
     "venue": "Dubai",
-    "date": "Oct 8 2020",
-    "match_status": "Sunrisers won by 69 runs",
-    "opponent": "Kings XI Punjab"
+    "date": "Oct 11 2020",
+    "match_status": "Royals won by 5 wickets (with 1 ball remaining)",
+    "opponent": "Rajasthan Royals"
   }
 ]

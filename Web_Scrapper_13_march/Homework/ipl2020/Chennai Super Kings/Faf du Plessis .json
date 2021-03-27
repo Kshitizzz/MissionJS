@@ -1,16 +1,16 @@
 [
   {
-    "info": "c Buttler b Archer",
-    "runs": "10",
-    "balls": "9",
-    "fours": "1",
-    "sixes": "0",
-    "strike_rate": "111.11",
-    "match_number": "37th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 19 2020",
-    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
-    "opponent": "Rajasthan Royals"
+    "info": "c Dhawan b Rabada",
+    "runs": "58",
+    "balls": "47",
+    "fours": "6",
+    "sixes": "2",
+    "strike_rate": "123.40",
+    "match_number": "34th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 17 2020",
+    "match_status": "Capitals won by 5 wickets (with 1 ball remaining)",
+    "opponent": "Delhi Capitals"
   },
   {
     "info": "c †Rahul b Jordan",
@@ -26,30 +26,30 @@
     "opponent": "Kings XI Punjab"
   },
   {
-    "info": "c Mohammed Siraj b Morris",
-    "runs": "25",
-    "balls": "13",
-    "fours": "2",
-    "sixes": "2",
-    "strike_rate": "192.31",
-    "match_number": "44th Match",
-    "venue": "Dubai",
-    "date": "Oct 25 2020",
-    "match_status": "Super Kings won by 8 wickets (with 8 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
+    "info": "c †Karthik b Shivam Mavi",
+    "runs": "17",
+    "balls": "10",
+    "fours": "3",
+    "sixes": "0",
+    "strike_rate": "170.00",
+    "match_number": "21st Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 7 2020",
+    "match_status": "KKR won by 10 runs",
+    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": "not out ",
-    "runs": "58",
-    "balls": "44",
-    "fours": "6",
-    "sixes": "0",
-    "strike_rate": "131.82",
-    "match_number": "1st Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Sep 19 2020",
-    "match_status": "Super Kings won by 5 wickets (with 4 balls remaining)",
-    "opponent": "Mumbai Indians"
+    "runs": "87",
+    "balls": "53",
+    "fours": "11",
+    "sixes": "1",
+    "strike_rate": "164.15",
+    "match_number": "18th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 4 2020",
+    "match_status": "Super Kings won by 10 wickets (with 14 balls remaining)",
+    "opponent": "Kings XI Punjab"
   },
   {
     "info": "c †de Kock b Boult",
@@ -78,6 +78,32 @@
     "opponent": "Delhi Capitals"
   },
   {
+    "info": "c Buttler b Archer",
+    "runs": "10",
+    "balls": "9",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "111.11",
+    "match_number": "37th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 19 2020",
+    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "not out ",
+    "runs": "58",
+    "balls": "44",
+    "fours": "6",
+    "sixes": "0",
+    "strike_rate": "131.82",
+    "match_number": "1st Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 19 2020",
+    "match_status": "Super Kings won by 5 wickets (with 4 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
     "info": "c †Samson b Archer",
     "runs": "72",
     "balls": "37",
@@ -91,6 +117,19 @@
     "opponent": "Rajasthan Royals"
   },
   {
+    "info": "run out (Garg/†Bairstow)",
+    "runs": "22",
+    "balls": "19",
+    "fours": "4",
+    "sixes": "0",
+    "strike_rate": "115.79",
+    "match_number": "14th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 2 2020",
+    "match_status": "Sunrisers won by 7 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
     "info": "c †Bairstow b Sandeep Sharma",
     "runs": "0",
     "balls": "1",
@@ -102,45 +141,6 @@
     "date": "Oct 13 2020",
     "match_status": "Super Kings won by 20 runs",
     "opponent": "Sunrisers Hyderabad"
-  },
-  {
-    "info": "c Dhawan b Rabada",
-    "runs": "58",
-    "balls": "47",
-    "fours": "6",
-    "sixes": "2",
-    "strike_rate": "123.40",
-    "match_number": "34th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 17 2020",
-    "match_status": "Capitals won by 5 wickets (with 1 ball remaining)",
-    "opponent": "Delhi Capitals"
-  },
-  {
-    "info": "not out ",
-    "runs": "87",
-    "balls": "53",
-    "fours": "11",
-    "sixes": "1",
-    "strike_rate": "164.15",
-    "match_number": "18th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 4 2020",
-    "match_status": "Super Kings won by 10 wickets (with 14 balls remaining)",
-    "opponent": "Kings XI Punjab"
-  },
-  {
-    "info": "c †Karthik b Shivam Mavi",
-    "runs": "17",
-    "balls": "10",
-    "fours": "3",
-    "sixes": "0",
-    "strike_rate": "170.00",
-    "match_number": "21st Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 7 2020",
-    "match_status": "KKR won by 10 runs",
-    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": "c Morris b Washington Sundar",

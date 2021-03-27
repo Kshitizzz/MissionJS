@@ -1,5 +1,18 @@
 [
   {
+    "info": "not out ",
+    "runs": "14",
+    "balls": "9",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "155.56",
+    "match_number": "27th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 11 2020",
+    "match_status": "Mum Indians won by 5 wickets (with 2 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
     "info": "c Archer b Unadkat",
     "runs": "14",
     "balls": "13",
@@ -11,18 +24,5 @@
     "date": "Oct 14 2020",
     "match_status": "Capitals won by 13 runs",
     "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "c du Plessis b Curran",
-    "runs": "4",
-    "balls": "7",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "57.14",
-    "match_number": "34th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 17 2020",
-    "match_status": "Capitals won by 5 wickets (with 1 ball remaining)",
-    "opponent": "Chennai Super Kings"
   }
 ]

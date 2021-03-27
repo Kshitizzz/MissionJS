@@ -19,6 +19,19 @@
     "fours": "0",
     "sixes": "0",
     "strike_rate": "0.00",
+    "match_number": "42nd Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "not out ",
+    "runs": "0",
+    "balls": "0",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
     "match_number": "Qualifier 1 (N)",
     "venue": "Dubai",
     "date": "Nov 5 2020",
@@ -37,18 +50,5 @@
     "date": "Sep 20 2020",
     "match_status": "Match tied (Capitals won the one-over eliminator)",
     "opponent": "Kings XI Punjab"
-  },
-  {
-    "info": "not out ",
-    "runs": "0",
-    "balls": "0",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "42nd Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 24 2020",
-    "match_status": "KKR won by 59 runs",
-    "opponent": "Kolkata Knight Riders"
   }
 ]

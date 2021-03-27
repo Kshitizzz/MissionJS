@@ -1,15 +1,41 @@
 [
   {
-    "info": "c KH Pandya b Boult",
-    "runs": "4",
-    "balls": "3",
+    "info": " b Mohammed Siraj",
+    "runs": "9",
+    "balls": "6",
+    "fours": "2",
+    "sixes": "0",
+    "strike_rate": "150.00",
+    "match_number": "55th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 2 2020",
+    "match_status": "Capitals won by 6 wickets (with 6 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "c Maxwell b Neesham",
+    "runs": "7",
+    "balls": "11",
     "fours": "1",
     "sixes": "0",
-    "strike_rate": "133.33",
-    "match_number": "27th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 11 2020",
-    "match_status": "Mum Indians won by 5 wickets (with 2 balls remaining)",
+    "strike_rate": "63.64",
+    "match_number": "38th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 20 2020",
+    "match_status": "Kings XI won by 5 wickets (with 6 balls remaining)",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "c †de Kock b Boult",
+    "runs": "10",
+    "balls": "11",
+    "fours": "2",
+    "sixes": "0",
+    "strike_rate": "90.91",
+    "match_number": "51st Match",
+    "venue": "Dubai",
+    "date": "Oct 31 2020",
+    "match_status": "Mum Indians won by 9 wickets (with 34 balls remaining)",
     "opponent": "Mumbai Indians"
   },
   {
@@ -26,16 +52,29 @@
     "opponent": "Sunrisers Hyderabad"
   },
   {
-    "info": "c †de Kock b Boult",
-    "runs": "0",
-    "balls": "2",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "Qualifier 1 (N)",
+    "info": "st †Dhoni b Chawla",
+    "runs": "64",
+    "balls": "43",
+    "fours": "9",
+    "sixes": "1",
+    "strike_rate": "148.84",
+    "match_number": "7th Match (N)",
     "venue": "Dubai",
-    "date": "Nov 5 2020",
-    "match_status": "Mum Indians won by 57 runs",
+    "date": "Sep 25 2020",
+    "match_status": "Capitals won by 44 runs",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c KH Pandya b Boult",
+    "runs": "4",
+    "balls": "3",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "133.33",
+    "match_number": "27th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 11 2020",
+    "match_status": "Mum Indians won by 5 wickets (with 2 balls remaining)",
     "opponent": "Mumbai Indians"
   },
   {
@@ -52,45 +91,6 @@
     "opponent": "Kolkata Knight Riders"
   },
   {
-    "info": "c †de Kock b Boult",
-    "runs": "10",
-    "balls": "11",
-    "fours": "2",
-    "sixes": "0",
-    "strike_rate": "90.91",
-    "match_number": "51st Match",
-    "venue": "Dubai",
-    "date": "Oct 31 2020",
-    "match_status": "Mum Indians won by 9 wickets (with 34 balls remaining)",
-    "opponent": "Mumbai Indians"
-  },
-  {
-    "info": "st †Dhoni b Chawla",
-    "runs": "64",
-    "balls": "43",
-    "fours": "9",
-    "sixes": "1",
-    "strike_rate": "148.84",
-    "match_number": "7th Match (N)",
-    "venue": "Dubai",
-    "date": "Sep 25 2020",
-    "match_status": "Capitals won by 44 runs",
-    "opponent": "Chennai Super Kings"
-  },
-  {
-    "info": "c & b Archer",
-    "runs": "19",
-    "balls": "10",
-    "fours": "2",
-    "sixes": "1",
-    "strike_rate": "190.00",
-    "match_number": "23rd Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 9 2020",
-    "match_status": "Capitals won by 46 runs",
-    "opponent": "Rajasthan Royals"
-  },
-  {
     "info": "c †de Villiers b Mohammed Siraj",
     "runs": "42",
     "balls": "23",
@@ -104,30 +104,17 @@
     "opponent": "Royal Challengers Bangalore"
   },
   {
-    "info": " b Archer",
-    "runs": "0",
-    "balls": "1",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "30th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 14 2020",
-    "match_status": "Capitals won by 13 runs",
-    "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "c & b Chahar",
+    "info": "c †de Kock b Boult",
     "runs": "0",
     "balls": "2",
     "fours": "0",
     "sixes": "0",
     "strike_rate": "0.00",
-    "match_number": "34th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 17 2020",
-    "match_status": "Capitals won by 5 wickets (with 1 ball remaining)",
-    "opponent": "Chennai Super Kings"
+    "match_number": "Qualifier 1 (N)",
+    "venue": "Dubai",
+    "date": "Nov 5 2020",
+    "match_status": "Mum Indians won by 57 runs",
+    "opponent": "Mumbai Indians"
   },
   {
     "info": "c Jordan b Mohammed Shami",
@@ -143,16 +130,29 @@
     "opponent": "Kings XI Punjab"
   },
   {
-    "info": " b Mohammed Siraj",
-    "runs": "9",
-    "balls": "6",
-    "fours": "2",
+    "info": " b Archer",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
     "sixes": "0",
-    "strike_rate": "150.00",
-    "match_number": "55th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Nov 2 2020",
-    "match_status": "Capitals won by 6 wickets (with 6 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
+    "strike_rate": "0.00",
+    "match_number": "30th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 14 2020",
+    "match_status": "Capitals won by 13 runs",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "c & b Archer",
+    "runs": "19",
+    "balls": "10",
+    "fours": "2",
+    "sixes": "1",
+    "strike_rate": "190.00",
+    "match_number": "23rd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 9 2020",
+    "match_status": "Capitals won by 46 runs",
+    "opponent": "Rajasthan Royals"
   }
 ]

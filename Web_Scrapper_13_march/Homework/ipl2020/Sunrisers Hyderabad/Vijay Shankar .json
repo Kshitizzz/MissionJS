@@ -1,5 +1,18 @@
 [
   {
+    "info": "c Shubman Gill b Cummins",
+    "runs": "7",
+    "balls": "10",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "70.00",
+    "match_number": "35th Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 18 2020",
+    "match_status": "Match tied (KKR won the one-over eliminator)",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
     "info": "c †Rahul b Arshdeep Singh",
     "runs": "26",
     "balls": "27",
@@ -37,18 +50,5 @@
     "date": "Oct 13 2020",
     "match_status": "Super Kings won by 20 runs",
     "opponent": "Chennai Super Kings"
-  },
-  {
-    "info": "not out ",
-    "runs": "52",
-    "balls": "51",
-    "fours": "6",
-    "sixes": "0",
-    "strike_rate": "101.96",
-    "match_number": "40th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 22 2020",
-    "match_status": "Sunrisers won by 8 wickets (with 11 balls remaining)",
-    "opponent": "Rajasthan Royals"
   }
 ]

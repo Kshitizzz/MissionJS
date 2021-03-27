@@ -1,5 +1,18 @@
 [
   {
+    "info": " b Ashwin",
+    "runs": "6",
+    "balls": "7",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "85.71",
+    "match_number": "6th Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 24 2020",
+    "match_status": "Kings XI won by 97 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
     "info": "not out ",
     "runs": "12",
     "balls": "12",
@@ -11,18 +24,5 @@
     "date": "Oct 5 2020",
     "match_status": "Capitals won by 59 runs",
     "opponent": "Delhi Capitals"
-  },
-  {
-    "info": "not out ",
-    "runs": "9",
-    "balls": "8",
-    "fours": "1",
-    "sixes": "0",
-    "strike_rate": "112.50",
-    "match_number": "Eliminator (N)",
-    "venue": "Abu Dhabi",
-    "date": "Nov 6 2020",
-    "match_status": "Sunrisers won by 6 wickets (with 2 balls remaining)",
-    "opponent": "Sunrisers Hyderabad"
   }
 ]

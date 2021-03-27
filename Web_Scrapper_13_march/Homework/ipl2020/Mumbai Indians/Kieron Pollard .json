@@ -1,29 +1,29 @@
 [
   {
-    "info": " b Rabada",
-    "runs": "9",
-    "balls": "4",
+    "info": " b Holder",
+    "runs": "41",
+    "balls": "25",
     "fours": "2",
-    "sixes": "0",
-    "strike_rate": "225.00",
-    "match_number": "Final (N)",
-    "venue": "Dubai",
-    "date": "Nov 10 2020",
-    "match_status": "Mum Indians won by 5 wickets (with 8 balls remaining)",
-    "opponent": "Delhi Capitals"
+    "sixes": "4",
+    "strike_rate": "164.00",
+    "match_number": "56th Match (N)",
+    "venue": "Sharjah",
+    "date": "Nov 3 2020",
+    "match_status": "Sunrisers won by 10 wickets (with 17 balls remaining)",
+    "opponent": "Sunrisers Hyderabad"
   },
   {
     "info": "not out ",
-    "runs": "25",
-    "balls": "13",
-    "fours": "0",
-    "sixes": "3",
-    "strike_rate": "192.31",
-    "match_number": "17th Match",
-    "venue": "Sharjah",
-    "date": "Oct 4 2020",
-    "match_status": "Mum Indians won by 34 runs",
-    "opponent": "Sunrisers Hyderabad"
+    "runs": "34",
+    "balls": "12",
+    "fours": "1",
+    "sixes": "4",
+    "strike_rate": "283.33",
+    "match_number": "36th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 18 2020",
+    "match_status": "Match tied (Kings XI won the one-over eliminator)",
+    "opponent": "Kings XI Punjab"
   },
   {
     "info": "not out ",
@@ -52,6 +52,19 @@
     "opponent": "Chennai Super Kings"
   },
   {
+    "info": "not out ",
+    "runs": "25",
+    "balls": "13",
+    "fours": "0",
+    "sixes": "3",
+    "strike_rate": "192.31",
+    "match_number": "17th Match",
+    "venue": "Sharjah",
+    "date": "Oct 4 2020",
+    "match_status": "Mum Indians won by 34 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
     "info": "c Rabada b Ashwin",
     "runs": "0",
     "balls": "2",
@@ -65,17 +78,17 @@
     "opponent": "Delhi Capitals"
   },
   {
-    "info": " b Holder",
-    "runs": "41",
-    "balls": "25",
-    "fours": "2",
-    "sixes": "4",
-    "strike_rate": "164.00",
-    "match_number": "56th Match (N)",
-    "venue": "Sharjah",
-    "date": "Nov 3 2020",
-    "match_status": "Sunrisers won by 10 wickets (with 17 balls remaining)",
-    "opponent": "Sunrisers Hyderabad"
+    "info": "not out ",
+    "runs": "13",
+    "balls": "7",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "185.71",
+    "match_number": "5th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 23 2020",
+    "match_status": "Mum Indians won by 49 runs",
+    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": "not out ",
@@ -92,28 +105,15 @@
   },
   {
     "info": "not out ",
-    "runs": "34",
-    "balls": "12",
-    "fours": "1",
-    "sixes": "4",
-    "strike_rate": "283.33",
-    "match_number": "36th Match (N)",
+    "runs": "60",
+    "balls": "24",
+    "fours": "3",
+    "sixes": "5",
+    "strike_rate": "250.00",
+    "match_number": "10th Match (N)",
     "venue": "Dubai",
-    "date": "Oct 18 2020",
-    "match_status": "Match tied (Kings XI won the one-over eliminator)",
-    "opponent": "Kings XI Punjab"
-  },
-  {
-    "info": "not out ",
-    "runs": "13",
-    "balls": "7",
-    "fours": "1",
-    "sixes": "0",
-    "strike_rate": "185.71",
-    "match_number": "5th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Sep 23 2020",
-    "match_status": "Mum Indians won by 49 runs",
-    "opponent": "Kolkata Knight Riders"
+    "date": "Sep 28 2020",
+    "match_status": "Match tied (RCB won the one-over eliminator)",
+    "opponent": "Royal Challengers Bangalore"
   }
 ]

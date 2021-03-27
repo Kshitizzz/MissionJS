@@ -1,5 +1,31 @@
 [
   {
+    "info": " b Chahar",
+    "runs": "4",
+    "balls": "8",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "50.00",
+    "match_number": "32nd Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 16 2020",
+    "match_status": "Mum Indians won by 8 wickets (with 19 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "c †Rahul b Mohammed Shami",
+    "runs": "0",
+    "balls": "2",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "46th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 26 2020",
+    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
+    "opponent": "Kings XI Punjab"
+  },
+  {
     "info": "not out ",
     "runs": "21",
     "balls": "10",
@@ -26,30 +52,17 @@
     "opponent": "Sunrisers Hyderabad"
   },
   {
-    "info": "lbw b Chahal",
-    "runs": "4",
-    "balls": "14",
+    "info": "c †Pant b Rabada",
+    "runs": "3",
+    "balls": "6",
     "fours": "0",
     "sixes": "0",
-    "strike_rate": "28.57",
-    "match_number": "39th Match (N)",
+    "strike_rate": "50.00",
+    "match_number": "42nd Match",
     "venue": "Abu Dhabi",
-    "date": "Oct 21 2020",
-    "match_status": "RCB won by 8 wickets (with 39 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
-  },
-  {
-    "info": "c †Rahul b Mohammed Shami",
-    "runs": "0",
-    "balls": "2",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "46th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 26 2020",
-    "match_status": "Kings XI won by 8 wickets (with 7 balls remaining)",
-    "opponent": "Kings XI Punjab"
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Delhi Capitals"
   },
   {
     "info": "c Smith b Tewatia",
@@ -63,18 +76,5 @@
     "date": "Nov 1 2020",
     "match_status": "KKR won by 60 runs",
     "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "c †Pant b Rabada",
-    "runs": "3",
-    "balls": "6",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "50.00",
-    "match_number": "42nd Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 24 2020",
-    "match_status": "KKR won by 59 runs",
-    "opponent": "Delhi Capitals"
   }
 ]

@@ -1,5 +1,18 @@
 [
   {
+    "info": "c Iyer b Nortje",
+    "runs": "87",
+    "balls": "45",
+    "fours": "12",
+    "sixes": "2",
+    "strike_rate": "193.33",
+    "match_number": "47th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 27 2020",
+    "match_status": "Sunrisers won by 88 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
     "info": "not out ",
     "runs": "58",
     "balls": "45",
@@ -24,18 +37,5 @@
     "date": "Sep 26 2020",
     "match_status": "KKR won by 7 wickets (with 12 balls remaining)",
     "opponent": "Kolkata Knight Riders"
-  },
-  {
-    "info": "st †de Villiers b Chahal",
-    "runs": "39",
-    "balls": "32",
-    "fours": "4",
-    "sixes": "1",
-    "strike_rate": "121.88",
-    "match_number": "52nd Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 31 2020",
-    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
   }
 ]

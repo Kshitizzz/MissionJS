@@ -13,30 +13,17 @@
     "opponent": "Sunrisers Hyderabad"
   },
   {
-    "info": "c Stokes b Archer",
-    "runs": "34",
-    "balls": "25",
-    "fours": "4",
+    "info": "c du Plessis b Jadeja",
+    "runs": "42",
+    "balls": "31",
+    "fours": "3",
     "sixes": "1",
-    "strike_rate": "136.00",
-    "match_number": "45th Match (N)",
+    "strike_rate": "135.48",
+    "match_number": "1st Match (N)",
     "venue": "Abu Dhabi",
-    "date": "Oct 25 2020",
-    "match_status": "Royals won by 8 wickets (with 10 balls remaining)",
-    "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "c Padikkal b Mohammed Siraj",
-    "runs": "5",
-    "balls": "8",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "62.50",
-    "match_number": "48th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 28 2020",
-    "match_status": "Mum Indians won by 5 wickets (with 5 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
+    "date": "Sep 19 2020",
+    "match_status": "Super Kings won by 5 wickets (with 4 balls remaining)",
+    "opponent": "Chennai Super Kings"
   },
   {
     "info": "c Cummins b Narine",
@@ -50,5 +37,18 @@
     "date": "Sep 23 2020",
     "match_status": "Mum Indians won by 49 runs",
     "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "c Stokes b Archer",
+    "runs": "34",
+    "balls": "25",
+    "fours": "4",
+    "sixes": "1",
+    "strike_rate": "136.00",
+    "match_number": "45th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 25 2020",
+    "match_status": "Royals won by 8 wickets (with 10 balls remaining)",
+    "opponent": "Rajasthan Royals"
   }
 ]

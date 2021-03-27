@@ -1,16 +1,16 @@
 [
   {
-    "info": "c Ishan Kishan b Pattinson",
-    "runs": "60",
-    "balls": "44",
-    "fours": "5",
-    "sixes": "2",
-    "strike_rate": "136.36",
-    "match_number": "17th Match",
-    "venue": "Sharjah",
-    "date": "Oct 4 2020",
-    "match_status": "Mum Indians won by 34 runs",
-    "opponent": "Mumbai Indians"
+    "info": "c Stokes b Archer",
+    "runs": "4",
+    "balls": "4",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "40th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 22 2020",
+    "match_status": "Sunrisers won by 8 wickets (with 11 balls remaining)",
+    "opponent": "Rajasthan Royals"
   },
   {
     "info": "c Patel b Ashwin",
@@ -26,30 +26,17 @@
     "opponent": "Delhi Capitals"
   },
   {
-    "info": " b Rabada",
-    "runs": "2",
-    "balls": "3",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "66.67",
-    "match_number": "Qualifier 2 (N)",
-    "venue": "Abu Dhabi",
-    "date": "Nov 8 2020",
-    "match_status": "Capitals won by 17 runs",
-    "opponent": "Delhi Capitals"
-  },
-  {
-    "info": "c †Pant b Mishra",
-    "runs": "45",
-    "balls": "33",
+    "info": "c †de Villiers b Mohammed Siraj",
+    "runs": "17",
+    "balls": "17",
     "fours": "3",
-    "sixes": "2",
-    "strike_rate": "136.36",
-    "match_number": "11th Match (N)",
+    "sixes": "0",
+    "strike_rate": "100.00",
+    "match_number": "Eliminator (N)",
     "venue": "Abu Dhabi",
-    "date": "Sep 29 2020",
-    "match_status": "Sunrisers won by 15 runs",
-    "opponent": "Delhi Capitals"
+    "date": "Nov 6 2020",
+    "match_status": "Sunrisers won by 6 wickets (with 2 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
   },
   {
     "info": "not out ",
@@ -65,17 +52,17 @@
     "opponent": "Mumbai Indians"
   },
   {
-    "info": "c & b Varun",
-    "runs": "36",
-    "balls": "30",
-    "fours": "2",
-    "sixes": "1",
-    "strike_rate": "120.00",
-    "match_number": "8th Match (N)",
+    "info": "c †Pant b Mishra",
+    "runs": "45",
+    "balls": "33",
+    "fours": "3",
+    "sixes": "2",
+    "strike_rate": "136.36",
+    "match_number": "11th Match (N)",
     "venue": "Abu Dhabi",
-    "date": "Sep 26 2020",
-    "match_status": "KKR won by 7 wickets (with 12 balls remaining)",
-    "opponent": "Kolkata Knight Riders"
+    "date": "Sep 29 2020",
+    "match_status": "Sunrisers won by 15 runs",
+    "opponent": "Delhi Capitals"
   },
   {
     "info": "not out ",
@@ -104,17 +91,30 @@
     "opponent": "Kings XI Punjab"
   },
   {
-    "info": "c Udana b Washington Sundar",
-    "runs": "8",
-    "balls": "5",
+    "info": " b Rabada",
+    "runs": "2",
+    "balls": "3",
     "fours": "0",
-    "sixes": "1",
-    "strike_rate": "160.00",
-    "match_number": "52nd Match (N)",
+    "sixes": "0",
+    "strike_rate": "66.67",
+    "match_number": "Qualifier 2 (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 8 2020",
+    "match_status": "Capitals won by 17 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "c Ishan Kishan b Pattinson",
+    "runs": "60",
+    "balls": "44",
+    "fours": "5",
+    "sixes": "2",
+    "strike_rate": "136.36",
+    "match_number": "17th Match",
     "venue": "Sharjah",
-    "date": "Oct 31 2020",
-    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
+    "date": "Oct 4 2020",
+    "match_status": "Mum Indians won by 34 runs",
+    "opponent": "Mumbai Indians"
   },
   {
     "info": "run out (Yadav)",
@@ -130,17 +130,43 @@
     "opponent": "Royal Challengers Bangalore"
   },
   {
-    "info": " b Archer",
-    "runs": "48",
-    "balls": "38",
-    "fours": "3",
-    "sixes": "2",
-    "strike_rate": "126.32",
-    "match_number": "26th Match",
+    "info": "c & b Varun",
+    "runs": "36",
+    "balls": "30",
+    "fours": "2",
+    "sixes": "1",
+    "strike_rate": "120.00",
+    "match_number": "8th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 26 2020",
+    "match_status": "KKR won by 7 wickets (with 12 balls remaining)",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "c Maxwell b Ravi Bishnoi",
+    "runs": "52",
+    "balls": "40",
+    "fours": "5",
+    "sixes": "1",
+    "strike_rate": "130.00",
+    "match_number": "22nd Match (N)",
     "venue": "Dubai",
-    "date": "Oct 11 2020",
-    "match_status": "Royals won by 5 wickets (with 1 ball remaining)",
-    "opponent": "Rajasthan Royals"
+    "date": "Oct 8 2020",
+    "match_status": "Sunrisers won by 69 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "c du Plessis b Chawla",
+    "runs": "28",
+    "balls": "29",
+    "fours": "3",
+    "sixes": "0",
+    "strike_rate": "96.55",
+    "match_number": "14th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 2 2020",
+    "match_status": "Sunrisers won by 7 runs",
+    "opponent": "Chennai Super Kings"
   },
   {
     "info": "c & b Curran",
@@ -156,42 +182,16 @@
     "opponent": "Chennai Super Kings"
   },
   {
-    "info": "c †de Villiers b Mohammed Siraj",
-    "runs": "17",
-    "balls": "17",
+    "info": " b Archer",
+    "runs": "48",
+    "balls": "38",
     "fours": "3",
-    "sixes": "0",
-    "strike_rate": "100.00",
-    "match_number": "Eliminator (N)",
-    "venue": "Abu Dhabi",
-    "date": "Nov 6 2020",
-    "match_status": "Sunrisers won by 6 wickets (with 2 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
-  },
-  {
-    "info": "c Stokes b Archer",
-    "runs": "4",
-    "balls": "4",
-    "fours": "1",
-    "sixes": "0",
-    "strike_rate": "100.00",
-    "match_number": "40th Match (N)",
+    "sixes": "2",
+    "strike_rate": "126.32",
+    "match_number": "26th Match",
     "venue": "Dubai",
-    "date": "Oct 22 2020",
-    "match_status": "Sunrisers won by 8 wickets (with 11 balls remaining)",
+    "date": "Oct 11 2020",
+    "match_status": "Royals won by 5 wickets (with 1 ball remaining)",
     "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "c Maxwell b Ravi Bishnoi",
-    "runs": "52",
-    "balls": "40",
-    "fours": "5",
-    "sixes": "1",
-    "strike_rate": "130.00",
-    "match_number": "22nd Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 8 2020",
-    "match_status": "Sunrisers won by 69 runs",
-    "opponent": "Kings XI Punjab"
   }
 ]

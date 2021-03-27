@@ -14,15 +14,15 @@
   },
   {
     "info": "not out ",
-    "runs": "0",
-    "balls": "0",
+    "runs": "2",
+    "balls": "2",
     "fours": "0",
     "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "2nd Match (N)",
-    "venue": "Dubai",
-    "date": "Sep 20 2020",
-    "match_status": "Match tied (Capitals won the one-over eliminator)",
-    "opponent": "Delhi Capitals"
+    "strike_rate": "100.00",
+    "match_number": "13th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 1 2020",
+    "match_status": "Mum Indians won by 48 runs",
+    "opponent": "Mumbai Indians"
   }
 ]

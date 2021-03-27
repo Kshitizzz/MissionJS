@@ -1,18 +1,5 @@
 [
   {
-    "info": "c †Pant b Rabada",
-    "runs": "32",
-    "balls": "24",
-    "fours": "3",
-    "sixes": "0",
-    "strike_rate": "133.33",
-    "match_number": "38th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 20 2020",
-    "match_status": "Kings XI won by 5 wickets (with 6 balls remaining)",
-    "opponent": "Delhi Capitals"
-  },
-  {
     "info": "not out ",
     "runs": "10",
     "balls": "5",
@@ -26,56 +13,17 @@
     "opponent": "Kolkata Knight Riders"
   },
   {
-    "info": "c Warner b Sandeep Sharma",
-    "runs": "12",
-    "balls": "13",
-    "fours": "0",
+    "info": "c †Pant b Rabada",
+    "runs": "32",
+    "balls": "24",
+    "fours": "3",
     "sixes": "0",
-    "strike_rate": "92.31",
-    "match_number": "43rd Match (N)",
+    "strike_rate": "133.33",
+    "match_number": "38th Match (N)",
     "venue": "Dubai",
-    "date": "Oct 24 2020",
-    "match_status": "Kings XI won by 12 runs",
-    "opponent": "Sunrisers Hyderabad"
-  },
-  {
-    "info": "c Boult b Chahar",
-    "runs": "11",
-    "balls": "18",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "61.11",
-    "match_number": "13th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 1 2020",
-    "match_status": "Mum Indians won by 48 runs",
-    "opponent": "Mumbai Indians"
-  },
-  {
-    "info": "c Sharma b Chahar",
-    "runs": "0",
-    "balls": "2",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "36th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 18 2020",
-    "match_status": "Match tied (Kings XI won the one-over eliminator)",
-    "opponent": "Mumbai Indians"
-  },
-  {
-    "info": "not out ",
-    "runs": "6",
-    "balls": "6",
-    "fours": "1",
-    "sixes": "0",
-    "strike_rate": "100.00",
-    "match_number": "50th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 30 2020",
-    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
-    "opponent": "Rajasthan Royals"
+    "date": "Oct 20 2020",
+    "match_status": "Kings XI won by 5 wickets (with 6 balls remaining)",
+    "opponent": "Delhi Capitals"
   },
   {
     "info": "not out ",
@@ -104,17 +52,43 @@
     "opponent": "Rajasthan Royals"
   },
   {
-    "info": "run out (Garg)",
-    "runs": "7",
-    "balls": "12",
+    "info": "c Sharma b Chahar",
+    "runs": "0",
+    "balls": "2",
     "fours": "0",
     "sixes": "0",
-    "strike_rate": "58.33",
-    "match_number": "22nd Match (N)",
+    "strike_rate": "0.00",
+    "match_number": "36th Match (N)",
     "venue": "Dubai",
-    "date": "Oct 8 2020",
-    "match_status": "Sunrisers won by 69 runs",
+    "date": "Oct 18 2020",
+    "match_status": "Match tied (Kings XI won the one-over eliminator)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "c Warner b Sandeep Sharma",
+    "runs": "12",
+    "balls": "13",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "92.31",
+    "match_number": "43rd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 24 2020",
+    "match_status": "Kings XI won by 12 runs",
     "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "c Finch b Dube",
+    "runs": "5",
+    "balls": "6",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "83.33",
+    "match_number": "6th Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 24 2020",
+    "match_status": "Kings XI won by 97 runs",
+    "opponent": "Royal Challengers Bangalore"
   },
   {
     "info": "c Iyer b Rabada",
@@ -128,5 +102,31 @@
     "date": "Sep 20 2020",
     "match_status": "Match tied (Capitals won the one-over eliminator)",
     "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "run out (Garg)",
+    "runs": "7",
+    "balls": "12",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "58.33",
+    "match_number": "22nd Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 8 2020",
+    "match_status": "Sunrisers won by 69 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "c Boult b Chahar",
+    "runs": "11",
+    "balls": "18",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "61.11",
+    "match_number": "13th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 1 2020",
+    "match_status": "Mum Indians won by 48 runs",
+    "opponent": "Mumbai Indians"
   }
 ]

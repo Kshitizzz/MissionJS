@@ -1,16 +1,16 @@
 [
   {
-    "info": "c †Samson b Tewatia",
-    "runs": "13",
-    "balls": "19",
-    "fours": "2",
-    "sixes": "0",
-    "strike_rate": "68.42",
-    "match_number": "37th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 19 2020",
-    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
-    "opponent": "Rajasthan Royals"
+    "info": "not out ",
+    "runs": "45",
+    "balls": "25",
+    "fours": "1",
+    "sixes": "4",
+    "strike_rate": "180.00",
+    "match_number": "34th Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 17 2020",
+    "match_status": "Capitals won by 5 wickets (with 1 ball remaining)",
+    "opponent": "Delhi Capitals"
   },
   {
     "info": "not out ",
@@ -26,6 +26,19 @@
     "opponent": "Kings XI Punjab"
   },
   {
+    "info": "c Shubman Gill b Nagarkoti",
+    "runs": "30",
+    "balls": "27",
+    "fours": "3",
+    "sixes": "0",
+    "strike_rate": "111.11",
+    "match_number": "21st Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 7 2020",
+    "match_status": "KKR won by 10 runs",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
     "info": "c Narine b Cummins",
     "runs": "38",
     "balls": "20",
@@ -37,32 +50,6 @@
     "date": "Oct 29 2020",
     "match_status": "Super Kings won by 6 wickets",
     "opponent": "Kolkata Knight Riders"
-  },
-  {
-    "info": " b Chahal",
-    "runs": "39",
-    "balls": "27",
-    "fours": "3",
-    "sixes": "2",
-    "strike_rate": "144.44",
-    "match_number": "44th Match",
-    "venue": "Dubai",
-    "date": "Oct 25 2020",
-    "match_status": "Super Kings won by 8 wickets (with 8 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
-  },
-  {
-    "info": "c & b Chahar",
-    "runs": "71",
-    "balls": "48",
-    "fours": "6",
-    "sixes": "3",
-    "strike_rate": "147.92",
-    "match_number": "1st Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Sep 19 2020",
-    "match_status": "Super Kings won by 5 wickets (with 4 balls remaining)",
-    "opponent": "Mumbai Indians"
   },
   {
     "info": "c †de Kock b Bumrah",
@@ -78,6 +65,45 @@
     "opponent": "Mumbai Indians"
   },
   {
+    "info": "c †Samson b Tewatia",
+    "runs": "13",
+    "balls": "19",
+    "fours": "2",
+    "sixes": "0",
+    "strike_rate": "68.42",
+    "match_number": "37th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 19 2020",
+    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "c & b Chahar",
+    "runs": "71",
+    "balls": "48",
+    "fours": "6",
+    "sixes": "3",
+    "strike_rate": "147.92",
+    "match_number": "1st Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 19 2020",
+    "match_status": "Super Kings won by 5 wickets (with 4 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": " b Natarajan",
+    "runs": "8",
+    "balls": "9",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "88.89",
+    "match_number": "14th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 2 2020",
+    "match_status": "Sunrisers won by 7 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
     "info": "c Warner b Ahmed",
     "runs": "41",
     "balls": "34",
@@ -89,32 +115,6 @@
     "date": "Oct 13 2020",
     "match_status": "Super Kings won by 20 runs",
     "opponent": "Sunrisers Hyderabad"
-  },
-  {
-    "info": "not out ",
-    "runs": "45",
-    "balls": "25",
-    "fours": "1",
-    "sixes": "4",
-    "strike_rate": "180.00",
-    "match_number": "34th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 17 2020",
-    "match_status": "Capitals won by 5 wickets (with 1 ball remaining)",
-    "opponent": "Delhi Capitals"
-  },
-  {
-    "info": "c Shubman Gill b Nagarkoti",
-    "runs": "30",
-    "balls": "27",
-    "fours": "3",
-    "sixes": "0",
-    "strike_rate": "111.11",
-    "match_number": "21st Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 7 2020",
-    "match_status": "KKR won by 10 runs",
-    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": " b Udana",

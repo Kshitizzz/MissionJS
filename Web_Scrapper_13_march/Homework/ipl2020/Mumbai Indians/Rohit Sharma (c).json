@@ -1,44 +1,5 @@
 [
   {
-    "info": "c sub (Lalit Yadav) b Nortje",
-    "runs": "68",
-    "balls": "51",
-    "fours": "5",
-    "sixes": "4",
-    "strike_rate": "133.33",
-    "match_number": "Final (N)",
-    "venue": "Dubai",
-    "date": "Nov 10 2020",
-    "match_status": "Mum Indians won by 5 wickets (with 8 balls remaining)",
-    "opponent": "Delhi Capitals"
-  },
-  {
-    "info": "c †Bairstow b Sandeep Sharma",
-    "runs": "6",
-    "balls": "5",
-    "fours": "0",
-    "sixes": "1",
-    "strike_rate": "120.00",
-    "match_number": "17th Match",
-    "venue": "Sharjah",
-    "date": "Oct 4 2020",
-    "match_status": "Mum Indians won by 34 runs",
-    "opponent": "Sunrisers Hyderabad"
-  },
-  {
-    "info": "c Rabada b AR Patel",
-    "runs": "5",
-    "balls": "12",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "41.67",
-    "match_number": "27th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 11 2020",
-    "match_status": "Mum Indians won by 5 wickets (with 2 balls remaining)",
-    "opponent": "Delhi Capitals"
-  },
-  {
     "info": "c †Karthik b Shivam Mavi",
     "runs": "35",
     "balls": "36",
@@ -50,32 +11,6 @@
     "date": "Oct 16 2020",
     "match_status": "Mum Indians won by 8 wickets (with 19 balls remaining)",
     "opponent": "Kolkata Knight Riders"
-  },
-  {
-    "info": "c Curran b Chawla",
-    "runs": "12",
-    "balls": "10",
-    "fours": "2",
-    "sixes": "0",
-    "strike_rate": "120.00",
-    "match_number": "1st Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Sep 19 2020",
-    "match_status": "Super Kings won by 5 wickets (with 4 balls remaining)",
-    "opponent": "Chennai Super Kings"
-  },
-  {
-    "info": "lbw b Ashwin",
-    "runs": "0",
-    "balls": "1",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "0.00",
-    "match_number": "Qualifier 1 (N)",
-    "venue": "Dubai",
-    "date": "Nov 5 2020",
-    "match_status": "Mum Indians won by 57 runs",
-    "opponent": "Delhi Capitals"
   },
   {
     "info": "c Warner b Sandeep Sharma",
@@ -91,19 +26,6 @@
     "opponent": "Sunrisers Hyderabad"
   },
   {
-    "info": "c Neesham b Mohammed Shami",
-    "runs": "70",
-    "balls": "45",
-    "fours": "8",
-    "sixes": "3",
-    "strike_rate": "155.56",
-    "match_number": "13th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 1 2020",
-    "match_status": "Mum Indians won by 48 runs",
-    "opponent": "Kings XI Punjab"
-  },
-  {
     "info": " b Arshdeep Singh",
     "runs": "9",
     "balls": "8",
@@ -115,6 +37,19 @@
     "date": "Oct 18 2020",
     "match_status": "Match tied (Kings XI won the one-over eliminator)",
     "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "c Rabada b AR Patel",
+    "runs": "5",
+    "balls": "12",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "41.67",
+    "match_number": "27th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 11 2020",
+    "match_status": "Mum Indians won by 5 wickets (with 2 balls remaining)",
+    "opponent": "Delhi Capitals"
   },
   {
     "info": "c Tewatia b Gopal",
@@ -130,6 +65,45 @@
     "opponent": "Rajasthan Royals"
   },
   {
+    "info": "c Curran b Chawla",
+    "runs": "12",
+    "balls": "10",
+    "fours": "2",
+    "sixes": "0",
+    "strike_rate": "120.00",
+    "match_number": "1st Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 19 2020",
+    "match_status": "Super Kings won by 5 wickets (with 4 balls remaining)",
+    "opponent": "Chennai Super Kings"
+  },
+  {
+    "info": "c †Bairstow b Sandeep Sharma",
+    "runs": "6",
+    "balls": "5",
+    "fours": "0",
+    "sixes": "1",
+    "strike_rate": "120.00",
+    "match_number": "17th Match",
+    "venue": "Sharjah",
+    "date": "Oct 4 2020",
+    "match_status": "Mum Indians won by 34 runs",
+    "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "lbw b Ashwin",
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "0.00",
+    "match_number": "Qualifier 1 (N)",
+    "venue": "Dubai",
+    "date": "Nov 5 2020",
+    "match_status": "Mum Indians won by 57 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
     "info": "c Cummins b Shivam Mavi",
     "runs": "80",
     "balls": "54",
@@ -141,5 +115,31 @@
     "date": "Sep 23 2020",
     "match_status": "Mum Indians won by 49 runs",
     "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "c Neesham b Mohammed Shami",
+    "runs": "70",
+    "balls": "45",
+    "fours": "8",
+    "sixes": "3",
+    "strike_rate": "155.56",
+    "match_number": "13th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 1 2020",
+    "match_status": "Mum Indians won by 48 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "c sub (P Negi) b Washington Sundar",
+    "runs": "8",
+    "balls": "8",
+    "fours": "0",
+    "sixes": "1",
+    "strike_rate": "100.00",
+    "match_number": "10th Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 28 2020",
+    "match_status": "Match tied (RCB won the one-over eliminator)",
+    "opponent": "Royal Challengers Bangalore"
   }
 ]

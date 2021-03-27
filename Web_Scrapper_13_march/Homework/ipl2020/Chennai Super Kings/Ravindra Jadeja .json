@@ -1,16 +1,16 @@
 [
   {
     "info": "not out ",
-    "runs": "35",
-    "balls": "30",
-    "fours": "4",
-    "sixes": "0",
-    "strike_rate": "116.67",
-    "match_number": "37th Match (N)",
+    "runs": "21",
+    "balls": "8",
+    "fours": "3",
+    "sixes": "1",
+    "strike_rate": "262.50",
+    "match_number": "21st Match (N)",
     "venue": "Abu Dhabi",
-    "date": "Oct 19 2020",
-    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
-    "opponent": "Rajasthan Royals"
+    "date": "Oct 7 2020",
+    "match_status": "KKR won by 10 runs",
+    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": "not out ",
@@ -24,19 +24,6 @@
     "date": "Oct 29 2020",
     "match_status": "Super Kings won by 6 wickets",
     "opponent": "Kolkata Knight Riders"
-  },
-  {
-    "info": "lbw b KH Pandya",
-    "runs": "10",
-    "balls": "5",
-    "fours": "2",
-    "sixes": "0",
-    "strike_rate": "200.00",
-    "match_number": "1st Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Sep 19 2020",
-    "match_status": "Super Kings won by 5 wickets (with 4 balls remaining)",
-    "opponent": "Mumbai Indians"
   },
   {
     "info": "c KH Pandya b Boult",
@@ -66,6 +53,32 @@
   },
   {
     "info": "not out ",
+    "runs": "35",
+    "balls": "30",
+    "fours": "4",
+    "sixes": "0",
+    "strike_rate": "116.67",
+    "match_number": "37th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 19 2020",
+    "match_status": "Royals won by 7 wickets (with 15 balls remaining)",
+    "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "lbw b KH Pandya",
+    "runs": "10",
+    "balls": "5",
+    "fours": "2",
+    "sixes": "0",
+    "strike_rate": "200.00",
+    "match_number": "1st Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 19 2020",
+    "match_status": "Super Kings won by 5 wickets (with 4 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
+    "info": "not out ",
     "runs": "1",
     "balls": "2",
     "fours": "0",
@@ -76,6 +89,19 @@
     "date": "Sep 22 2020",
     "match_status": "Royals won by 16 runs",
     "opponent": "Rajasthan Royals"
+  },
+  {
+    "info": "c Abdul Samad b Natarajan",
+    "runs": "50",
+    "balls": "35",
+    "fours": "5",
+    "sixes": "2",
+    "strike_rate": "142.86",
+    "match_number": "14th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 2 2020",
+    "match_status": "Sunrisers won by 7 runs",
+    "opponent": "Sunrisers Hyderabad"
   },
   {
     "info": "not out ",
@@ -89,32 +115,6 @@
     "date": "Oct 13 2020",
     "match_status": "Super Kings won by 20 runs",
     "opponent": "Sunrisers Hyderabad"
-  },
-  {
-    "info": "not out ",
-    "runs": "33",
-    "balls": "13",
-    "fours": "0",
-    "sixes": "4",
-    "strike_rate": "253.85",
-    "match_number": "34th Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 17 2020",
-    "match_status": "Capitals won by 5 wickets (with 1 ball remaining)",
-    "opponent": "Delhi Capitals"
-  },
-  {
-    "info": "not out ",
-    "runs": "21",
-    "balls": "8",
-    "fours": "3",
-    "sixes": "1",
-    "strike_rate": "262.50",
-    "match_number": "21st Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 7 2020",
-    "match_status": "KKR won by 10 runs",
-    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": "c Gurkeerat Singh b Morris",

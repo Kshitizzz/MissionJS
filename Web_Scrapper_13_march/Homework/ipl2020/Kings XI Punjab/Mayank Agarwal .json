@@ -1,18 +1,5 @@
 [
   {
-    "info": "run out (Ashwin/†Pant)",
-    "runs": "5",
-    "balls": "9",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "55.56",
-    "match_number": "38th Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 20 2020",
-    "match_status": "Kings XI won by 5 wickets (with 6 balls remaining)",
-    "opponent": "Delhi Capitals"
-  },
-  {
     "info": " b Ngidi",
     "runs": "26",
     "balls": "15",
@@ -39,30 +26,17 @@
     "opponent": "Kolkata Knight Riders"
   },
   {
-    "info": " b Bumrah",
-    "runs": "25",
-    "balls": "18",
-    "fours": "3",
+    "info": "run out (Ashwin/†Pant)",
+    "runs": "5",
+    "balls": "9",
+    "fours": "0",
     "sixes": "0",
-    "strike_rate": "138.89",
-    "match_number": "13th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Oct 1 2020",
-    "match_status": "Mum Indians won by 48 runs",
-    "opponent": "Mumbai Indians"
-  },
-  {
-    "info": " b Bumrah",
-    "runs": "11",
-    "balls": "10",
-    "fours": "1",
-    "sixes": "0",
-    "strike_rate": "110.00",
-    "match_number": "36th Match (N)",
+    "strike_rate": "55.56",
+    "match_number": "38th Match (N)",
     "venue": "Dubai",
-    "date": "Oct 18 2020",
-    "match_status": "Match tied (Kings XI won the one-over eliminator)",
-    "opponent": "Mumbai Indians"
+    "date": "Oct 20 2020",
+    "match_status": "Kings XI won by 5 wickets (with 6 balls remaining)",
+    "opponent": "Delhi Capitals"
   },
   {
     "info": "c Curran b Chawla",
@@ -91,17 +65,43 @@
     "opponent": "Rajasthan Royals"
   },
   {
+    "info": " b Bumrah",
+    "runs": "11",
+    "balls": "10",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "110.00",
+    "match_number": "36th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 18 2020",
+    "match_status": "Match tied (Kings XI won the one-over eliminator)",
+    "opponent": "Mumbai Indians"
+  },
+  {
     "info": " b Chahal",
-    "runs": "45",
-    "balls": "25",
+    "runs": "26",
+    "balls": "20",
     "fours": "4",
-    "sixes": "3",
-    "strike_rate": "180.00",
-    "match_number": "31st Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 15 2020",
-    "match_status": "Kings XI won by 8 wickets",
+    "sixes": "0",
+    "strike_rate": "130.00",
+    "match_number": "6th Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 24 2020",
+    "match_status": "Kings XI won by 97 runs",
     "opponent": "Royal Challengers Bangalore"
+  },
+  {
+    "info": "c Hetmyer b Stoinis",
+    "runs": "89",
+    "balls": "60",
+    "fours": "7",
+    "sixes": "4",
+    "strike_rate": "148.33",
+    "match_number": "2nd Match (N)",
+    "venue": "Dubai",
+    "date": "Sep 20 2020",
+    "match_status": "Match tied (Capitals won the one-over eliminator)",
+    "opponent": "Delhi Capitals"
   },
   {
     "info": "run out (Warner/Ahmed)",
@@ -117,16 +117,16 @@
     "opponent": "Sunrisers Hyderabad"
   },
   {
-    "info": "c Hetmyer b Stoinis",
-    "runs": "89",
-    "balls": "60",
-    "fours": "7",
-    "sixes": "4",
-    "strike_rate": "148.33",
-    "match_number": "2nd Match (N)",
-    "venue": "Dubai",
-    "date": "Sep 20 2020",
-    "match_status": "Match tied (Capitals won the one-over eliminator)",
-    "opponent": "Delhi Capitals"
+    "info": " b Bumrah",
+    "runs": "25",
+    "balls": "18",
+    "fours": "3",
+    "sixes": "0",
+    "strike_rate": "138.89",
+    "match_number": "13th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Oct 1 2020",
+    "match_status": "Mum Indians won by 48 runs",
+    "opponent": "Mumbai Indians"
   }
 ]

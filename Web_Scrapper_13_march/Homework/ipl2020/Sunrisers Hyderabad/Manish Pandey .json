@@ -1,16 +1,16 @@
 [
   {
-    "info": "c Pollard b Pattinson",
-    "runs": "30",
-    "balls": "19",
+    "info": "not out ",
+    "runs": "83",
+    "balls": "47",
     "fours": "4",
-    "sixes": "1",
-    "strike_rate": "157.89",
-    "match_number": "17th Match",
-    "venue": "Sharjah",
-    "date": "Oct 4 2020",
-    "match_status": "Mum Indians won by 34 runs",
-    "opponent": "Mumbai Indians"
+    "sixes": "8",
+    "strike_rate": "176.60",
+    "match_number": "40th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 22 2020",
+    "match_status": "Sunrisers won by 8 wickets (with 11 balls remaining)",
+    "opponent": "Rajasthan Royals"
   },
   {
     "info": "not out ",
@@ -26,17 +26,17 @@
     "opponent": "Delhi Capitals"
   },
   {
-    "info": "c Nortje b Stoinis",
-    "runs": "21",
-    "balls": "14",
+    "info": "c †de Villiers b Zampa",
+    "runs": "24",
+    "balls": "21",
     "fours": "3",
-    "sixes": "0",
-    "strike_rate": "150.00",
-    "match_number": "Qualifier 2 (N)",
+    "sixes": "1",
+    "strike_rate": "114.29",
+    "match_number": "Eliminator (N)",
     "venue": "Abu Dhabi",
-    "date": "Nov 8 2020",
-    "match_status": "Capitals won by 17 runs",
-    "opponent": "Delhi Capitals"
+    "date": "Nov 6 2020",
+    "match_status": "Sunrisers won by 6 wickets (with 2 balls remaining)",
+    "opponent": "Royal Challengers Bangalore"
   },
   {
     "info": "c Rabada b Mishra",
@@ -50,19 +50,6 @@
     "date": "Sep 29 2020",
     "match_status": "Sunrisers won by 15 runs",
     "opponent": "Delhi Capitals"
-  },
-  {
-    "info": "c & b Russell",
-    "runs": "51",
-    "balls": "38",
-    "fours": "3",
-    "sixes": "2",
-    "strike_rate": "134.21",
-    "match_number": "8th Match (N)",
-    "venue": "Abu Dhabi",
-    "date": "Sep 26 2020",
-    "match_status": "KKR won by 7 wickets (with 12 balls remaining)",
-    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": " b Ferguson",
@@ -91,17 +78,30 @@
     "opponent": "Kings XI Punjab"
   },
   {
-    "info": "c Morris b Chahal",
-    "runs": "26",
-    "balls": "19",
+    "info": "c Nortje b Stoinis",
+    "runs": "21",
+    "balls": "14",
     "fours": "3",
+    "sixes": "0",
+    "strike_rate": "150.00",
+    "match_number": "Qualifier 2 (N)",
+    "venue": "Abu Dhabi",
+    "date": "Nov 8 2020",
+    "match_status": "Capitals won by 17 runs",
+    "opponent": "Delhi Capitals"
+  },
+  {
+    "info": "c Pollard b Pattinson",
+    "runs": "30",
+    "balls": "19",
+    "fours": "4",
     "sixes": "1",
-    "strike_rate": "136.84",
-    "match_number": "52nd Match (N)",
+    "strike_rate": "157.89",
+    "match_number": "17th Match",
     "venue": "Sharjah",
-    "date": "Oct 31 2020",
-    "match_status": "Sunrisers won by 5 wickets (with 35 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
+    "date": "Oct 4 2020",
+    "match_status": "Mum Indians won by 34 runs",
+    "opponent": "Mumbai Indians"
   },
   {
     "info": "c Saini b Chahal",
@@ -117,17 +117,43 @@
     "opponent": "Royal Challengers Bangalore"
   },
   {
-    "info": "c Tewatia b Unadkat",
-    "runs": "54",
-    "balls": "44",
-    "fours": "2",
-    "sixes": "3",
-    "strike_rate": "122.73",
-    "match_number": "26th Match",
+    "info": "c & b Russell",
+    "runs": "51",
+    "balls": "38",
+    "fours": "3",
+    "sixes": "2",
+    "strike_rate": "134.21",
+    "match_number": "8th Match (N)",
+    "venue": "Abu Dhabi",
+    "date": "Sep 26 2020",
+    "match_status": "KKR won by 7 wickets (with 12 balls remaining)",
+    "opponent": "Kolkata Knight Riders"
+  },
+  {
+    "info": "c & b Arshdeep Singh",
+    "runs": "1",
+    "balls": "2",
+    "fours": "0",
+    "sixes": "0",
+    "strike_rate": "50.00",
+    "match_number": "22nd Match (N)",
     "venue": "Dubai",
-    "date": "Oct 11 2020",
-    "match_status": "Royals won by 5 wickets (with 1 ball remaining)",
-    "opponent": "Rajasthan Royals"
+    "date": "Oct 8 2020",
+    "match_status": "Sunrisers won by 69 runs",
+    "opponent": "Kings XI Punjab"
+  },
+  {
+    "info": "c Curran b Thakur",
+    "runs": "29",
+    "balls": "21",
+    "fours": "5",
+    "sixes": "0",
+    "strike_rate": "138.10",
+    "match_number": "14th Match (N)",
+    "venue": "Dubai",
+    "date": "Oct 2 2020",
+    "match_status": "Sunrisers won by 7 runs",
+    "opponent": "Chennai Super Kings"
   },
   {
     "info": "run out (Bravo)",
@@ -143,42 +169,16 @@
     "opponent": "Chennai Super Kings"
   },
   {
-    "info": "c †de Villiers b Zampa",
-    "runs": "24",
-    "balls": "21",
-    "fours": "3",
-    "sixes": "1",
-    "strike_rate": "114.29",
-    "match_number": "Eliminator (N)",
-    "venue": "Abu Dhabi",
-    "date": "Nov 6 2020",
-    "match_status": "Sunrisers won by 6 wickets (with 2 balls remaining)",
-    "opponent": "Royal Challengers Bangalore"
-  },
-  {
-    "info": "not out ",
-    "runs": "83",
-    "balls": "47",
-    "fours": "4",
-    "sixes": "8",
-    "strike_rate": "176.60",
-    "match_number": "40th Match (N)",
+    "info": "c Tewatia b Unadkat",
+    "runs": "54",
+    "balls": "44",
+    "fours": "2",
+    "sixes": "3",
+    "strike_rate": "122.73",
+    "match_number": "26th Match",
     "venue": "Dubai",
-    "date": "Oct 22 2020",
-    "match_status": "Sunrisers won by 8 wickets (with 11 balls remaining)",
+    "date": "Oct 11 2020",
+    "match_status": "Royals won by 5 wickets (with 1 ball remaining)",
     "opponent": "Rajasthan Royals"
-  },
-  {
-    "info": "c & b Arshdeep Singh",
-    "runs": "1",
-    "balls": "2",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "50.00",
-    "match_number": "22nd Match (N)",
-    "venue": "Dubai",
-    "date": "Oct 8 2020",
-    "match_status": "Sunrisers won by 69 runs",
-    "opponent": "Kings XI Punjab"
   }
 ]

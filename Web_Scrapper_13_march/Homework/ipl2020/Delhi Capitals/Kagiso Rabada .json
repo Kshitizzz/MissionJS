@@ -13,6 +13,19 @@
     "opponent": "Sunrisers Hyderabad"
   },
   {
+    "info": "run out (Bumrah)",
+    "runs": "12",
+    "balls": "7",
+    "fours": "0",
+    "sixes": "1",
+    "strike_rate": "171.43",
+    "match_number": "51st Match",
+    "venue": "Dubai",
+    "date": "Oct 31 2020",
+    "match_status": "Mum Indians won by 9 wickets (with 34 balls remaining)",
+    "opponent": "Mumbai Indians"
+  },
+  {
     "info": "not out ",
     "runs": "15",
     "balls": "7",
@@ -24,6 +37,19 @@
     "date": "Sep 29 2020",
     "match_status": "Sunrisers won by 15 runs",
     "opponent": "Sunrisers Hyderabad"
+  },
+  {
+    "info": "c Tripathi b Cummins",
+    "runs": "9",
+    "balls": "10",
+    "fours": "1",
+    "sixes": "0",
+    "strike_rate": "90.00",
+    "match_number": "42nd Match",
+    "venue": "Abu Dhabi",
+    "date": "Oct 24 2020",
+    "match_status": "KKR won by 59 runs",
+    "opponent": "Kolkata Knight Riders"
   },
   {
     "info": "not out ",
@@ -39,32 +65,6 @@
     "opponent": "Mumbai Indians"
   },
   {
-    "info": "run out (Bumrah)",
-    "runs": "12",
-    "balls": "7",
-    "fours": "0",
-    "sixes": "1",
-    "strike_rate": "171.43",
-    "match_number": "51st Match",
-    "venue": "Dubai",
-    "date": "Oct 31 2020",
-    "match_status": "Mum Indians won by 9 wickets (with 34 balls remaining)",
-    "opponent": "Mumbai Indians"
-  },
-  {
-    "info": "not out ",
-    "runs": "2",
-    "balls": "3",
-    "fours": "0",
-    "sixes": "0",
-    "strike_rate": "66.67",
-    "match_number": "23rd Match (N)",
-    "venue": "Sharjah",
-    "date": "Oct 9 2020",
-    "match_status": "Capitals won by 46 runs",
-    "opponent": "Rajasthan Royals"
-  },
-  {
     "info": "not out ",
     "runs": "0",
     "balls": "0",
@@ -78,16 +78,16 @@
     "opponent": "Kings XI Punjab"
   },
   {
-    "info": "c Tripathi b Cummins",
-    "runs": "9",
-    "balls": "10",
-    "fours": "1",
+    "info": "not out ",
+    "runs": "2",
+    "balls": "3",
+    "fours": "0",
     "sixes": "0",
-    "strike_rate": "90.00",
-    "match_number": "42nd Match",
-    "venue": "Abu Dhabi",
-    "date": "Oct 24 2020",
-    "match_status": "KKR won by 59 runs",
-    "opponent": "Kolkata Knight Riders"
+    "strike_rate": "66.67",
+    "match_number": "23rd Match (N)",
+    "venue": "Sharjah",
+    "date": "Oct 9 2020",
+    "match_status": "Capitals won by 46 runs",
+    "opponent": "Rajasthan Royals"
   }
 ]

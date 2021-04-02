@@ -29,13 +29,31 @@ browserPromise
 })
 .then(function(){
     let loginButtonWillBeClickedPromise = globalTab.click("button[data-analytics = 'LoginPassword']");
-    return loginButtonWillBeClickedPromise;
+    let combinedPromise = Promise.all([loginButtonWillBeClickedPromise,
+    globalTab.waitForNavigation({waitUntil : "networkidle0"})]);
+    return combinedPromise;
 })
 .then(function(){
-    console.log("Login done!");
-})
-.catch(function(err){
-    console.log(err);
-})
+    let clickpromise = globalTab.click(".card-content h3[title = 'Interview Preparation Kit']");
+    let warmmupChallengeElementPromise = globalTab.waitForSelector("a[data-attr1 = 'warmup']",
+    {visible : true});
+    let combinedPromise = Promise.all([clickpromise, globalTab.waitForNavigation(
+        {waitUntil: "networkidle0"}), warmmupChallengeElementPromise]);
 
-console.log("After!");
+})
+.then(function(){
+    let clickpromise = globalTab.click("a[data-attr1 = 'warmup']");
+    let sockMerchantPromise = globalTab.waitForSelector("a[data-attr1 = 'sock-merchant']", 
+    {visible : true});
+    let combinedPromise = Promise.all([clickpromise, globalTab.waitForNavigation(
+        {waitUntil : "networkidle0"}), sockMerchantPromise]);
+        return combinedPromise;
+})
+.then(function(){
+    let clickpromise =- globalTab.click("a[data-attr1 = 'sock-merchant']");
+    let combinedPromise = Promise.all([clickpromise, globalTab.waitForNavigation(
+        {waitUntil : "networkidle0"}
+    )]);
+    return combinedPromise;
+})
+console.log("AFTER!")

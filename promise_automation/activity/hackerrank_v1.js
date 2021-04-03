@@ -1,3 +1,4 @@
+// Removing waitForNavigation promise and adding our own custom waitAndClick function
 let puppeteer = require("puppeteer");
 let { password, email } = require("./secrets");
 let fs = require("fs");

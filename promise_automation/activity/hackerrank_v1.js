@@ -1,8 +1,10 @@
 let puppeteer = require("puppeteer");
-let { password, email } = require("../../../secrets");
+let { password, email } = require("./secrets");
 let fs = require("fs");
 let gtab;
+
 console.log("Before");
+
 let browserPromise = puppeteer.launch({
     headless: false,
     defaultViewport: null,

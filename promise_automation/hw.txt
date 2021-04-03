@@ -1,2 +1,0 @@
-goto
-warmup challenges --> first problem --> editorial --> copy code --> paste in solution --> submit

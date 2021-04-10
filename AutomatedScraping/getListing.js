@@ -9,7 +9,8 @@ let links = ["https://www.amazon.in", "www.flipkart.com", "www.snapdeal.com"];
             defaultViewport : null,
             args : ["--start-maximized"]
         });
-        await getListingFromAmazon(links[0], browserInstance, "iphone");
+        let amazonArr = await getListingFromAmazon(links[0], browserInstance, "iphone");
+        console.log(amazonArr);
     }catch(err){
         console.log(err);
     }
@@ -20,14 +21,18 @@ async function getListingFromAmazon(url, browserInstance, productName){
     await newTab.goto(url);
     await newTab.type("#twotabsearchtextbox", productName, {delay : 200});
     await newTab.click("#nav-search-submit-button");
-
-    function browserconsolerunFn(){
-        let allIphoneElements = document.querySelectorAll("class='a-size-medium a-color-base a-text-normal'");
-        let iphoneNames = []
-        for(let idx = 0; idx < 5; idx++){
-            iphoneNames.push(allIphoneElements.innerText);
+    await newTab.waitForSelector(".a-price-whole", {visible : true});
+    function browserconsolerunFn(priceSelector, nameSelector){
+        let allIphoneElements = document.querySelectorAll(nameSelector);
+        let allPriceElements = document.querySelectorAll(priceSelector);
+        let iphones = []
+        for(let idx = 0; idx < 4; idx++){
+            console.log("In for loop,", idx);
+            let iphone = allIphoneElements[idx].innerText;
+            let price = allPriceElements[idx].innerText;
+            iphones.push({iphone, price});
         }
-        console.log(iphoneNames);
+        return iphones;
     }
-    await newTab.evaluate(browserconsolerunFn)
+    return newTab.evaluate(browserconsolerunFn, ".a-price-whole", ".a-size-medium.a-color-base.a-text-normal");
 }

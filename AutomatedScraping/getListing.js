@@ -10,7 +10,7 @@ let links = ["https://www.amazon.in", "www.flipkart.com", "www.snapdeal.com"];
             args : ["--start-maximized"]
         });
         let amazonArr = await getListingFromAmazon(links[0], browserInstance, "iphone");
-        console.log(amazonArr);
+        console.table(amazonArr);
     }catch(err){
         console.log(err);
     }
@@ -19,9 +19,10 @@ let links = ["https://www.amazon.in", "www.flipkart.com", "www.snapdeal.com"];
 async function getListingFromAmazon(url, browserInstance, productName){
     let newTab = await browserInstance.newPage();
     await newTab.goto(url);
-    await newTab.type("#twotabsearchtextbox", productName, {delay : 200});
+    await newTab.type("#twotabsearchtextbox", productName);
     await newTab.click("#nav-search-submit-button");
     await newTab.waitForSelector(".a-price-whole", {visible : true});
+    await newTab.waitForSelector(".a-size-medium.a-color-base.a-text-normal", {visible : true});
     function browserconsolerunFn(priceSelector, nameSelector){
         let allIphoneElements = document.querySelectorAll(nameSelector);
         let allPriceElements = document.querySelectorAll(priceSelector);

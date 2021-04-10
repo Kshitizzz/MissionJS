@@ -65,7 +65,7 @@ browserPromise
             fqsp = fqsp.then(function(){
                 questionSolver(url, codes[i].soln, codes[i].qName);
             })
-        }
+        }   
     })
     .catch(function (err) { // if any error occurs in the promise chain, then stop the chain there, and propagate the error to this error handler
         console.log(err);

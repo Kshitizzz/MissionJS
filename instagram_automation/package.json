@@ -1,0 +1,18 @@
+{
+  "name": "instagram_automation",
+  "version": "1.0.0",
+  "description": "dependencies",
+  "main": "likeThesePosts_v1.js",
+  "scripts": {
+    "test": "node likeThesePosts_v1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/kshitizzz/missionjs/instagram_automation"
+  },
+  "author": "kshitizzz",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}

@@ -41,7 +41,24 @@ let numberOfPostsToLike = process.argv.slice(2)[1];
         await newPage.click(".aOOlW.HoLwm");
         await newPage.waitForSelector(searchBarSelector);
         await newPage.type(searchBarSelector, userName, {delay : 200});
-        await newPage.waitForSelector(".fuqBx .JvDyy a", {visible : true});
-        await newPage.click(".fuqBx .JvDyy a");
+        await newPage.waitForSelector("a[class = '-qQT3']", {visible : true});
+        await newPage.click("a[class = '-qQT3']");
+        // wait for post selector to show up/load
+        await newPage.waitForSelector('div[class="u7YqG"]');
+        await newPage.click('div[class="u7YqG"]');
+        
+        while(numberOfPostsToLike > 0){
+            console.log("NUMBER OF POSTS LEFT TO LIKE :: ", numberOfPostsToLike);
+            // wait for like button to show up
+            await newPage.waitForSelector('.ltpMr.Slqrh .fr66n .wpO6b');
+            // click the like button
+            await newPage.click('.ltpMr.Slqrh .fr66n .wpO6b');
+            // click the next post button
+            await newPage.click('._65Bje.coreSpriteRightPaginationArrow');
+            // reduce the counter
+            numberOfPostsToLike -= 1;
+            }
     }catch(err) {console.log(err)};
 })()
+
+

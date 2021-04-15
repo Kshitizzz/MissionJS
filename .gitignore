@@ -1909,3 +1909,6 @@ instagram_automation/node_modules/yauzl/index.js
 instagram_automation/node_modules/yauzl/LICENSE
 instagram_automation/node_modules/yauzl/package.json
 instagram_automation/node_modules/yauzl/README.md
+Tests/test-3.pdf
+.gitignore
+test-3.js

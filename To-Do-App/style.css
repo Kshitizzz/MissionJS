@@ -1,0 +1,48 @@
+/* BASIC SETUP */
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    background-color: lightcoral;
+}
+.input-container{
+    height: 15vh;
+}
+.task-container{
+    height:85vh;
+    background-color: lightpink;
+    text-align:center;
+    font-family:'Zen Dots', cursive;
+}
+.task{
+    list-style: none; /*should always be none*/
+    font-size: 1.25rem;
+    background-color: slategray;
+    /*background visible*/
+    width:60vw;
+    height:3.5rem;
+    padding:1rem;
+    margin-bottom: 2vh;
+    margin: 0 auto;
+    margin-bottom: 0.5rem;
+}
+.input-box{
+    font-family: 'Zen Dots', cursive;
+    height: 60%;
+    font-size: 1.25rem;
+    margin-left: 26vw;
+    display: block;
+    margin:0 auto;
+    margin-top: 3vh;
+    width:40vw;
+}
+.instruction{
+    font-size: 1.5rem;
+}
+
+@media screen and (max-width: 884px){
+    .input-box{
+        width : 60vw;
+    }
+}
